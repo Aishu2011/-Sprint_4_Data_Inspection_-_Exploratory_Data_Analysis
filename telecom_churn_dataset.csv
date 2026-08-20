@@ -1,0 +1,1016 @@
+CustomerID,Gender,TenureMonths,Contract,PaymentMethod,MonthlyCharges,TotalCharges,TechSupport,InternetService,SeniorCitizen,Churn
+TEL-1000,Male,36,Month-to-month,Bank transfer,89.9,500.0,No,Fiber optic,0,No
+TEL-1001,Female,24,Month-to-month,Bank transfer,89.9,4500.0,No,DSL,0,No
+TEL-1002,Male,6,Month-to-month,Bank transfer,29.85,1200.0,No internet,No,1,No
+TEL-1003,Male,48,Month-to-month,Bank transfer,89.9,100.5,No,Fiber optic,0,Yes
+TEL-1004,Male,36,Month-to-month,Credit card,56.95,100.5,No internet,DSL,0,No
+TEL-1005,Female,1,Month-to-month,Bank transfer,105.0,100.5,Yes,No,0,No
+TEL-1006,Male,60,One year,Electronic check,105.0,500.0,No,Fiber optic,0,Yes
+TEL-1007,Male,48,Month-to-month,Bank transfer,29.85,500.0,No internet,DSL,0,No
+TEL-1008,Male,60,One year,Credit card,89.9,1200.0,Yes,Fiber optic,0,No
+TEL-1009,Female,36,One year,Bank transfer,29.85,100.5,No,DSL,0,No
+TEL-1010,Male,24,Two year,Electronic check,56.95,100.5,Yes,No,0,Yes
+TEL-1011,Male,12,One year,Credit card,29.85,500.0,No,No,1,No
+TEL-1012,Male,60,Two year,Credit card,56.95,1200.0,No,No,0,No
+TEL-1013,Male,60,Month-to-month,Electronic check,56.95,100.5,No,Fiber optic,0,No
+TEL-1014,Female,1,Month-to-month,Electronic check,89.9,1200.0,Yes,Fiber optic,0,No
+TEL-1015,Male,1,Month-to-month,Electronic check,56.95,100.5,Yes,Fiber optic,1,Yes
+TEL-1016,Female,12,One year,Electronic check,89.9,4500.0,Yes,DSL,0,No
+TEL-1017,Female,48,Two year,Electronic check,56.95,4500.0,No,Fiber optic,0,No
+TEL-1018,Female,-1,Month-to-month,Credit card,29.85,100.5,No,Fiber optic,0,No
+TEL-1019,Male,1,Two year,Credit card,89.9,100.5,No internet,DSL,0,Yes
+TEL-1020,Female,24,Month-to-month,Bank transfer,29.85,500.0,No,Fiber optic,0,No
+TEL-1021,Male,12,Two year,Bank transfer,56.95,100.5,No,No,1,Yes
+TEL-1022,Female,-5,Month-to-month,Mailed check,89.9,1200.0,No internet,No,1,Yes
+TEL-1023,Female,48,Month-to-month,Bank transfer,56.95,4500.0,No,DSL,0,No
+TEL-1024,Female,48,Month-to-month,Bank transfer,29.85,1200.0,No internet,DSL,0,No
+TEL-1025,Female,12,Month-to-month,Electronic check,56.95,4500.0,No,DSL,0,No
+TEL-1026,Female,12,Month-to-month,Electronic check,105.0,500.0,Yes,No,0,Yes
+TEL-1027,Female,6,Month-to-month,Bank transfer,89.9,100.5,Yes,DSL,1,No
+TEL-1028,Female,1,Two year,Mailed check,89.9,1200.0,No,Fiber optic,0,No
+TEL-1029,Female,60,Month-to-month,Electronic check,89.9,500.0,Yes,DSL,0,Yes
+TEL-1030,Male,48,Month-to-month,Bank transfer,29.85,1200.0,No,Fiber optic,0,No
+TEL-1031,Male,-1,One year,Bank transfer,56.95,100.5,No,DSL,0,No
+TEL-1032,Female,-1,One year,Credit card,89.9,100.5,No,Fiber optic,0,No
+TEL-1033,Female,24,Month-to-month,Mailed check,29.85,,No,DSL,0,No
+TEL-1034,Female,48,Month-to-month,Credit card,29.85,100.5,Yes,Fiber optic,0,Yes
+TEL-1035,Male,60,Month-to-month,Mailed check,29.85,,No,DSL,1,No
+TEL-1036,Female,48,Month-to-month,Electronic check,56.95,,No,Fiber optic,0,No
+TEL-1037,Male,6,One year,Mailed check, ,1200.0,No internet,No,0,Yes
+TEL-1038,Male,12,Month-to-month,Bank transfer,29.85,1200.0,No,DSL,0,No
+TEL-1039,Male,1,Month-to-month,Bank transfer,56.95,500.0,No internet,No,0,Yes
+TEL-1040,Male,-5,One year,Mailed check,29.85,4500.0,No,Fiber optic,0,Yes
+TEL-1041,Male,24,Month-to-month,Mailed check,ErrorVal,100.5,No,DSL,0,No
+TEL-1042,Female,6,One year,Mailed check,29.85,500.0,Yes,Fiber optic,0,No
+TEL-1043,Female,36,Month-to-month,Credit card,56.95,1200.0,No,DSL,0,No
+TEL-1044,Female,24,Two year,Mailed check,89.9,500.0,No,Fiber optic,1,No
+TEL-1045,Female,12,Month-to-month,Electronic check,89.9,500.0,No,Fiber optic,0,No
+TEL-1046,Female,1,Two year,Credit card,56.95,500.0,No,DSL,0,No
+TEL-1047,Male,36,One year,Credit card,56.95,500.0,No,Fiber optic,0,No
+TEL-1048,Female,24,Month-to-month,Mailed check,56.95,4500.0,No,No,0,Yes
+TEL-1049,Female,48,One year,Electronic check,29.85,100.5,No,No,0,No
+TEL-1050,Male,24,Two year,Credit card,29.85,,Yes,Fiber optic,1,No
+TEL-1051,Female,60,One year,Bank transfer,56.95,1200.0,No internet,No,0,No
+TEL-1052,Male,24,Two year,Credit card,29.85,4500.0,Yes,Fiber optic,1,Yes
+TEL-1053,Female,24,Two year,Mailed check,29.85,500.0,Yes,DSL,0,No
+TEL-1054,Male,60,Month-to-month,Electronic check,89.9,1200.0,No,No,0,Yes
+TEL-1055,Female,12,Month-to-month,Mailed check,ErrorVal,100.5,No,Fiber optic,0,No
+TEL-1056,Female,1,One year,Bank transfer,89.9,4500.0,No,Fiber optic,1,No
+TEL-1057,Male,1,Month-to-month,Bank transfer,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1058,Male,48,Two year,Bank transfer,29.85,4500.0,No,No,1,No
+TEL-1059,Male,24,Two year,Mailed check,ErrorVal,,No,No,1,No
+TEL-1060,Male,36,Month-to-month,Credit card,29.85,100.5,No internet,Fiber optic,1,No
+TEL-1061,Male,6,Month-to-month,Mailed check,29.85,100.5,No internet,DSL,0,No
+TEL-1062,Male,1,One year,Electronic check,56.95,1200.0,No,Fiber optic,0,Yes
+TEL-1063,Male,1,Month-to-month,Credit card,89.9,100.5,No,Fiber optic,0,No
+TEL-1064,Male,12,Two year,Bank transfer,89.9,4500.0,No,DSL,0,Yes
+TEL-1065,Female,24,Month-to-month,Mailed check,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1066,Female,12,One year,Bank transfer,29.85,100.5,No,Fiber optic,0,No
+TEL-1067,Male,12,Month-to-month,Bank transfer,ErrorVal,,No,DSL,0,No
+TEL-1068,Female,60,One year,Electronic check,29.85,1200.0,No internet,DSL,0,No
+TEL-1069,Female,6,Month-to-month,Credit card,89.9,4500.0,Yes,DSL,0,No
+TEL-1070,Female,24,One year,Electronic check,89.9,500.0,No,No,0,No
+TEL-1071,Female,48,Month-to-month,Electronic check,89.9,1200.0,No,DSL,0,No
+TEL-1072,Male,12,One year,Electronic check,56.95,500.0,No,DSL,0,Yes
+TEL-1073,Female,24,Two year,Bank transfer,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1074,Male,60,Month-to-month,Electronic check,56.95,1200.0,No internet,DSL,0,Yes
+TEL-1075,Female,60,Month-to-month,Electronic check,105.0,500.0,No,DSL,0,No
+TEL-1076,Female,1,Month-to-month,Credit card,105.0,500.0,No,DSL,0,No
+TEL-1077,Female,60,One year,Credit card,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1078,Male,12,One year,Electronic check,29.85,1200.0,No,Fiber optic,0,No
+TEL-1079,Female,6,Month-to-month,Credit card,105.0,100.5,No,DSL,0,No
+TEL-1080,Male,12,Month-to-month,Credit card,89.9,1200.0,Yes,Fiber optic,0,No
+TEL-1081,Female,-1,Month-to-month,Electronic check,105.0,100.5,Yes,No,0,No
+TEL-1082,Male,12,One year,Bank transfer,29.85,1200.0,No internet,DSL,0,No
+TEL-1083,Female,6,Month-to-month,Electronic check,56.95,1200.0,Yes,DSL,0,No
+TEL-1084,Male,24,Two year,Credit card,89.9,100.5,Yes,DSL,0,No
+TEL-1085,Male,6,Month-to-month,Bank transfer,89.9,100.5,No,Fiber optic,0,No
+TEL-1086,Female,1,One year,Mailed check,56.95,100.5,No,Fiber optic,0,Yes
+TEL-1087,Male,1,Month-to-month,Bank transfer,29.85,1200.0,Yes,DSL,0,No
+TEL-1088,Female,1,Month-to-month,Credit card,56.95,4500.0,No,Fiber optic,0,No
+TEL-1089,Female,1,One year,Bank transfer,29.85,100.5,Yes,DSL,0,Yes
+TEL-1090,Female,1,One year,Electronic check,56.95,1200.0,Yes,Fiber optic,0,Yes
+TEL-1091,Female,24,Two year,Mailed check,ErrorVal,500.0,Yes,Fiber optic,1,No
+TEL-1092,Female,1,Month-to-month,Mailed check,56.95,500.0,No internet,DSL,0,No
+TEL-1093,Female,6,Month-to-month,Mailed check,105.0,,Yes,Fiber optic,0,Yes
+TEL-1094,Female,60,One year,Credit card,29.85,500.0,Yes,DSL,0,No
+TEL-1095,Female,12,One year,Credit card,89.9,500.0,No,Fiber optic,0,Yes
+TEL-1096,Female,36,Month-to-month,Mailed check, ,100.5,No internet,DSL,1,No
+TEL-1097,Female,1,Month-to-month,Bank transfer,29.85,100.5,Yes,No,0,No
+TEL-1098,Female,1,Month-to-month,Mailed check,29.85,100.5,No,DSL,0,No
+TEL-1099,Male,1,Two year,Bank transfer,56.95,100.5,Yes,No,1,No
+TEL-1100,Male,1,Month-to-month,Bank transfer,29.85,1200.0,No,DSL,0,Yes
+TEL-1101,Female,6,Month-to-month,Credit card,89.9,500.0,No,Fiber optic,0,Yes
+TEL-1102,Female,1,Month-to-month,Bank transfer,105.0,500.0,No,DSL,1,No
+TEL-1103,Female,1,Month-to-month,Mailed check,56.95,100.5,No,No,0,No
+TEL-1104,Female,1,Month-to-month,Credit card,29.85,100.5,No,DSL,0,Yes
+TEL-1105,Female,12,Month-to-month,Electronic check,56.95,1200.0,Yes,DSL,0,No
+TEL-1106,Female,6,Month-to-month,Electronic check,89.9,,No,Fiber optic,0,No
+TEL-1107,Female,12,Two year,Credit card,29.85,100.5,Yes,DSL,0,No
+TEL-1108,Female,24,Month-to-month,Mailed check,56.95,4500.0,No,DSL,1,Yes
+TEL-1109,Male,36,Month-to-month,Electronic check,89.9,500.0,No internet,No,0,Yes
+TEL-1110,Female,1,Two year,Electronic check,89.9,500.0,No internet,No,0,No
+TEL-1111,Male,48,One year,Bank transfer,29.85,500.0,No internet,DSL,1,No
+TEL-1112,Female,24,Month-to-month,Bank transfer,89.9,100.5,No,No,0,Yes
+TEL-1113,Female,1,Month-to-month,Mailed check,29.85,100.5,No,Fiber optic,0,No
+TEL-1114,Male,60,Month-to-month,Credit card,29.85,1200.0,Yes,DSL,0,No
+TEL-1115,Female,60,One year,Mailed check,105.0,500.0,No,Fiber optic,1,No
+TEL-1116,Male,1,Two year,Credit card,89.9,,No,Fiber optic,1,Yes
+TEL-1117,Female,6,One year,Electronic check,29.85,500.0,No,No,0,No
+TEL-1118,Female,48,One year,Bank transfer,29.85,100.5,No,DSL,0,No
+TEL-1119,Male,36,One year,Mailed check,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1120,Female,1,Month-to-month,Mailed check,29.85,100.5,No,DSL,1,No
+TEL-1121,Male,6,Month-to-month,Credit card,29.85,500.0,No internet,DSL,0,No
+TEL-1122,Female,12,One year,Credit card,29.85,1200.0,Yes,DSL,0,No
+TEL-1123,Male,12,Two year,Mailed check,56.95,,No,No,1,No
+TEL-1124,Male,24,Month-to-month,Credit card,89.9,1200.0,No internet,No,0,No
+TEL-1125,Female,12,One year,Mailed check,89.9,1200.0,No,Fiber optic,0,No
+TEL-1126,Female,12,Month-to-month,Mailed check,89.9,1200.0,No,Fiber optic,0,No
+TEL-1127,Male,36,Month-to-month,Mailed check,29.85,,Yes,DSL,0,Yes
+TEL-1128,Female,1,Month-to-month,Electronic check,ErrorVal,100.5,No,DSL,0,Yes
+TEL-1129,Female,6,Month-to-month,Credit card,105.0,100.5,No internet,DSL,1,No
+TEL-1130,Female,36,One year,Bank transfer,105.0,100.5,No,DSL,0,Yes
+TEL-1131,Male,60,Month-to-month,Bank transfer,105.0,100.5,No,Fiber optic,0,No
+TEL-1132,Male,24,One year,Credit card,105.0,1200.0,Yes,Fiber optic,0,Yes
+TEL-1133,Male,24,One year,Mailed check,56.95,1200.0,Yes,DSL,0,No
+TEL-1134,Male,1,Two year,Bank transfer,29.85,500.0,No internet,DSL,0,No
+TEL-1135,Male,12,Month-to-month,Bank transfer,89.9,100.5,No,DSL,0,No
+TEL-1136,Male,24,Month-to-month,Credit card,89.9,1200.0,No,Fiber optic,1,No
+TEL-1137,Male,6,Month-to-month,Bank transfer,89.9,500.0,Yes,No,0,Yes
+TEL-1138,Male,6,Two year,Mailed check,56.95,1200.0,No,Fiber optic,0,No
+TEL-1139,Male,12,Two year,Credit card,29.85,500.0,No internet,No,0,No
+TEL-1140,Female,1,Month-to-month,Mailed check,56.95,500.0,No,Fiber optic,1,No
+TEL-1141,Male,6,Two year,Bank transfer,105.0,100.5,Yes,DSL,0,No
+TEL-1142,Female,6,Month-to-month,Bank transfer,56.95,100.5,No,DSL,0,No
+TEL-1143,Female,6,One year,Mailed check,56.95,4500.0,No,No,0,No
+TEL-1144,Female,1,Month-to-month,Electronic check,29.85,,No,Fiber optic,1,Yes
+TEL-1145,Male,60,One year,Bank transfer,56.95,1200.0,No internet,DSL,0,No
+TEL-1146,Male,24,Month-to-month,Electronic check,105.0,100.5,No,Fiber optic,0,No
+TEL-1147,Male,36,Two year,Bank transfer,89.9,500.0,No internet,Fiber optic,0,Yes
+TEL-1148,Male,48,One year,Electronic check,89.9,1200.0,No,Fiber optic,0,No
+TEL-1149,Female,12,One year,Electronic check,56.95,1200.0,Yes,No,0,No
+TEL-1150,Male,1,Month-to-month,Electronic check,89.9,100.5,No,Fiber optic,0,No
+TEL-1151,Male,24,Month-to-month,Mailed check,29.85,100.5,Yes,Fiber optic,0,Yes
+TEL-1152,Male,24,Month-to-month,Electronic check,89.9,1200.0,No internet,DSL,1,No
+TEL-1153,Male,36,Month-to-month,Electronic check,56.95,500.0,No,DSL,1,Yes
+TEL-1154,Male,12,Month-to-month,Electronic check,56.95,100.5,No,DSL,0,Yes
+TEL-1155,Female,1,Two year,Bank transfer,89.9,100.5,No,DSL,1,No
+TEL-1156,Male,6,One year,Electronic check,105.0,500.0,Yes,Fiber optic,0,No
+TEL-1157,Female,12,Month-to-month,Bank transfer,29.85,4500.0,No,Fiber optic,0,No
+TEL-1158,Male,24,Month-to-month,Electronic check,105.0,,No,DSL,0,No
+TEL-1159,Female,24,Month-to-month,Electronic check,29.85,500.0,Yes,No,0,Yes
+TEL-1160,Male,12,One year,Mailed check,56.95,500.0,No,DSL,0,Yes
+TEL-1161,Male,-1,Month-to-month,Bank transfer,29.85,100.5,Yes,DSL,0,No
+TEL-1162,Female,24,Two year,Electronic check,56.95,500.0,No,DSL,0,No
+TEL-1163,Female,6,Month-to-month,Bank transfer,56.95,500.0,No,DSL,0,No
+TEL-1164,Female,1,Two year,Bank transfer,29.85,1200.0,Yes,DSL,0,No
+TEL-1165,Male,1,Two year,Credit card,56.95,500.0,No internet,Fiber optic,0,No
+TEL-1166,Female,6,Month-to-month,Mailed check,105.0,100.5,Yes,Fiber optic,1,No
+TEL-1167,Male,1,Two year,Mailed check,29.85,100.5,Yes,No,0,No
+TEL-1168,Male,1,Month-to-month,Mailed check,89.9,500.0,Yes,DSL,0,No
+TEL-1169,Female,6,Two year,Credit card,56.95,100.5,No,DSL,0,No
+TEL-1170,Female,1,Month-to-month,Credit card,89.9,100.5,No,DSL,0,Yes
+TEL-1171,Male,60,Two year,Mailed check,29.85,,No,Fiber optic,1,Yes
+TEL-1172,Male,1,Two year,Credit card,29.85,500.0,Yes,DSL,0,No
+TEL-1173,Female,24,Two year,Credit card,29.85,500.0,Yes,No,0,No
+TEL-1174,Female,12,One year,Credit card,29.85,4500.0,No,Fiber optic,0,No
+TEL-1175,Female,-1,Month-to-month,Mailed check,29.85,,No internet,Fiber optic,0,No
+TEL-1176,Male,1,Month-to-month,Mailed check,89.9,500.0,No internet,Fiber optic,1,No
+TEL-1177,Male,12,Month-to-month,Mailed check,105.0,4500.0,Yes,DSL,0,Yes
+TEL-1178,Male,-5,Month-to-month,Credit card,105.0,500.0,No,DSL,0,No
+TEL-1179,Male,60,One year,Mailed check,89.9,500.0,No internet,DSL,0,No
+TEL-1180,Male,48,Month-to-month,Credit card,29.85,500.0,No,Fiber optic,0,No
+TEL-1181,Male,6,Two year,Electronic check,29.85,1200.0,No internet,DSL,0,No
+TEL-1182,Female,1,One year,Credit card,56.95,1200.0,Yes,DSL,0,No
+TEL-1183,Male,36,Two year,Bank transfer,29.85,500.0,No internet,No,0,Yes
+TEL-1184,Male,60,Month-to-month,Mailed check,56.95,100.5,No,DSL,0,No
+TEL-1185,Male,24,Two year,Mailed check,56.95,1200.0,No internet,No,1,No
+TEL-1186,Female,24,Two year,Bank transfer,56.95,100.5,No,Fiber optic,0,No
+TEL-1187,Male,6,Month-to-month,Credit card,56.95,500.0,No,DSL,0,Yes
+TEL-1188,Male,48,One year,Electronic check,105.0,1200.0,No internet,DSL,0,No
+TEL-1189,Female,1,One year,Bank transfer,89.9,1200.0,Yes,DSL,0,No
+TEL-1190,Male,6,Month-to-month,Bank transfer,56.95,1200.0,No,Fiber optic,0,Yes
+TEL-1191,Male,12,Month-to-month,Credit card,105.0,4500.0,No,Fiber optic,0,No
+TEL-1192,Male,24,Month-to-month,Mailed check,ErrorVal,500.0,No,Fiber optic,0,No
+TEL-1193,Male,6,Month-to-month,Credit card,56.95,1200.0,No internet,No,0,No
+TEL-1194,Male,1,Month-to-month,Bank transfer,56.95,1200.0,Yes,Fiber optic,1,No
+TEL-1195,Female,24,Month-to-month,Bank transfer,56.95,100.5,No,DSL,0,No
+TEL-1196,Female,6,Month-to-month,Mailed check,105.0,100.5,No,DSL,0,No
+TEL-1197,Female,24,Month-to-month,Mailed check,105.0,100.5,Yes,No,0,No
+TEL-1198,Male,1,Two year,Mailed check,29.85,500.0,No,DSL,1,No
+TEL-1199,Male,12,Month-to-month,Credit card,56.95,1200.0,Yes,DSL,1,No
+TEL-1200,Male,24,Two year,Mailed check,56.95,4500.0,No,Fiber optic,0,No
+TEL-1201,Female,1,Month-to-month,Bank transfer,56.95,100.5,No internet,Fiber optic,0,No
+TEL-1202,Male,6,Month-to-month,Bank transfer,29.85,100.5,No,No,0,Yes
+TEL-1203,Male,1,Month-to-month,Electronic check,105.0,,No,Fiber optic,0,No
+TEL-1204,Female,1,Month-to-month,Credit card,89.9,100.5,No internet,DSL,1,No
+TEL-1205,Male,-1,Month-to-month,Electronic check,105.0,500.0,No,No,0,No
+TEL-1206,Female,6,One year,Bank transfer,105.0,500.0,No internet,DSL,0,No
+TEL-1207,Female,48,Month-to-month,Electronic check,89.9,500.0,No,DSL,0,No
+TEL-1208,Female,6,One year,Bank transfer,56.95,100.5,No internet,Fiber optic,0,No
+TEL-1209,Male,36,One year,Electronic check,89.9,100.5,Yes,DSL,0,No
+TEL-1210,Male,48,Month-to-month,Mailed check,29.85,100.5,No internet,Fiber optic,0,No
+TEL-1211,Male,24,Month-to-month,Electronic check,89.9,500.0,Yes,DSL,0,Yes
+TEL-1212,Male,12,One year,Mailed check,29.85,500.0,No,Fiber optic,0,No
+TEL-1213,Male,12,Month-to-month,Mailed check,89.9,100.5,No,DSL,0,No
+TEL-1214,Male,6,Month-to-month,Credit card,29.85,1200.0,No,Fiber optic,0,No
+TEL-1215,Male,60,Two year,Mailed check,29.85,4500.0,No,No,0,No
+TEL-1216,Female,48,Month-to-month,Mailed check,29.85,100.5,No,DSL,0,No
+TEL-1217,Male,-5,One year,Electronic check,29.85,500.0,No,DSL,0,No
+TEL-1218,Female,1,Two year,Bank transfer,89.9,1200.0,Yes,DSL,1,No
+TEL-1219,Male,36,Month-to-month,Credit card,89.9,100.5,Yes,DSL,1,Yes
+TEL-1220,Male,60,Month-to-month,Mailed check,56.95,500.0,Yes,Fiber optic,1,Yes
+TEL-1221,Male,1,Month-to-month,Credit card,29.85,1200.0,No,Fiber optic,0,No
+TEL-1222,Female,1,Month-to-month,Electronic check,29.85,4500.0,Yes,DSL,0,No
+TEL-1223,Female,36,Month-to-month,Mailed check,29.85,4500.0,No,DSL,0,Yes
+TEL-1224,Female,24,One year,Electronic check,29.85,500.0,No,DSL,1,No
+TEL-1225,Female,48,Month-to-month,Credit card,105.0,1200.0,Yes,Fiber optic,1,No
+TEL-1226,Male,1,Month-to-month,Electronic check,29.85,500.0,No,DSL,1,No
+TEL-1227,Female,48,Two year,Credit card,56.95,1200.0,No internet,No,0,No
+TEL-1228,Male,6,Two year,Electronic check,29.85,500.0,Yes,Fiber optic,1,No
+TEL-1229,Male,1,One year,Credit card,29.85,100.5,No,DSL,0,No
+TEL-1230,Female,1,Month-to-month,Bank transfer,56.95,1200.0,No,Fiber optic,0,No
+TEL-1231,Female,48,One year,Electronic check,89.9,500.0,No,No,0,No
+TEL-1232,Female,36,Month-to-month,Electronic check,29.85,500.0,No,Fiber optic,0,Yes
+TEL-1233,Female,24,Month-to-month,Bank transfer,29.85,,No,DSL,0,No
+TEL-1234,Female,12,Month-to-month,Bank transfer,56.95,100.5,No,DSL,0,No
+TEL-1235,Female,60,Two year,Electronic check,29.85,500.0,Yes,No,0,No
+TEL-1236,Female,12,Month-to-month,Bank transfer,29.85,100.5,No,Fiber optic,0,No
+TEL-1237,Female,48,Month-to-month,Mailed check,ErrorVal,1200.0,No,Fiber optic,1,Yes
+TEL-1238,Male,12,Month-to-month,Credit card,89.9,1200.0,Yes,No,0,No
+TEL-1239,Female,12,Month-to-month,Credit card,56.95,500.0,No,No,0,No
+TEL-1240,Female,12,Two year,Credit card,56.95,1200.0,No internet,No,1,No
+TEL-1241,Male,6,One year,Mailed check,56.95,500.0,No,DSL,1,No
+TEL-1242,Female,36,One year,Bank transfer,56.95,1200.0,No,Fiber optic,0,No
+TEL-1243,Male,24,Month-to-month,Bank transfer,89.9,500.0,No internet,Fiber optic,0,No
+TEL-1244,Male,6,Month-to-month,Electronic check,89.9,500.0,No,Fiber optic,0,No
+TEL-1245,Female,60,Month-to-month,Bank transfer,29.85,,No,Fiber optic,0,No
+TEL-1246,Male,12,Month-to-month,Electronic check,56.95,100.5,No,DSL,0,No
+TEL-1247,Male,24,Month-to-month,Mailed check,56.95,100.5,No internet,Fiber optic,1,No
+TEL-1248,Male,60,One year,Credit card,105.0,500.0,No,Fiber optic,0,Yes
+TEL-1249,Male,24,Month-to-month,Credit card,89.9,,No,DSL,1,Yes
+TEL-1250,Female,1,Month-to-month,Credit card,56.95,500.0,No,Fiber optic,1,Yes
+TEL-1251,Male,60,Month-to-month,Bank transfer,29.85,100.5,No internet,DSL,1,Yes
+TEL-1252,Female,24,Month-to-month,Electronic check,89.9,500.0,No,DSL,0,No
+TEL-1253,Male,6,Month-to-month,Electronic check,29.85,500.0,Yes,DSL,1,No
+TEL-1254,Male,1,Two year,Mailed check,56.95,100.5,No internet,Fiber optic,0,No
+TEL-1255,Male,48,Two year,Bank transfer,29.85,1200.0,No,Fiber optic,0,Yes
+TEL-1256,Male,24,Two year,Mailed check,89.9,,Yes,Fiber optic,0,No
+TEL-1257,Female,24,Month-to-month,Electronic check,29.85,500.0,No,Fiber optic,0,Yes
+TEL-1258,Female,60,Month-to-month,Electronic check,56.95,500.0,No,No,0,No
+TEL-1259,Male,48,Month-to-month,Credit card,105.0,500.0,No internet,DSL,0,Yes
+TEL-1260,Male,1,Month-to-month,Bank transfer,29.85,100.5,Yes,DSL,0,No
+TEL-1261,Female,6,Two year,Electronic check,56.95,4500.0,No internet,No,0,No
+TEL-1262,Male,6,Month-to-month,Credit card,56.95,500.0,No,DSL,0,Yes
+TEL-1263,Male,36,Month-to-month,Bank transfer,29.85,500.0,Yes,No,0,No
+TEL-1264,Male,1,Month-to-month,Mailed check,89.9,1200.0,No internet,No,1,Yes
+TEL-1265,Female,24,Month-to-month,Bank transfer,29.85,500.0,No,Fiber optic,0,No
+TEL-1266,Female,48,One year,Bank transfer,56.95,1200.0,Yes,No,0,No
+TEL-1267,Female,60,Month-to-month,Electronic check,56.95,100.5,No,DSL,0,No
+TEL-1268,Male,6,Month-to-month,Electronic check,89.9,4500.0,No internet,DSL,0,No
+TEL-1269,Male,48,Month-to-month,Bank transfer,89.9,,No,Fiber optic,0,No
+TEL-1270,Female,1,Month-to-month,Electronic check,29.85,1200.0,Yes,DSL,0,No
+TEL-1271,Female,48,One year,Electronic check,29.85,,Yes,No,1,No
+TEL-1272,Female,1,Two year,Electronic check,89.9,100.5,Yes,DSL,0,No
+TEL-1273,Female,12,Two year,Credit card,56.95,500.0,No,Fiber optic,0,No
+TEL-1274,Male,48,One year,Credit card,105.0,1200.0,No,Fiber optic,0,No
+TEL-1275,Female,1,Month-to-month,Bank transfer,105.0,500.0,Yes,Fiber optic,1,Yes
+TEL-1276,Male,6,One year,Electronic check,105.0,500.0,Yes,DSL,0,No
+TEL-1277,Female,36,Month-to-month,Credit card,56.95,500.0,No,DSL,0,No
+TEL-1278,Male,36,Month-to-month,Bank transfer,56.95,100.5,No internet,No,0,No
+TEL-1279,Female,24,Two year,Electronic check,89.9,500.0,No,DSL,0,No
+TEL-1280,Female,36,Month-to-month,Mailed check,56.95,100.5,No internet,No,0,No
+TEL-1281,Female,24,Two year,Electronic check,29.85,1200.0,No,Fiber optic,0,Yes
+TEL-1282,Female,6,Month-to-month,Electronic check,105.0,100.5,Yes,Fiber optic,0,Yes
+TEL-1283,Male,6,One year,Credit card,105.0,100.5,No internet,Fiber optic,0,No
+TEL-1284,Female,1,One year,Bank transfer,56.95,500.0,No,DSL,0,No
+TEL-1285,Male,60,Two year,Bank transfer,29.85,500.0,No,Fiber optic,0,Yes
+TEL-1286,Male,24,One year,Credit card,56.95,4500.0,No internet,No,0,No
+TEL-1287,Male,12,One year,Electronic check,105.0,500.0,Yes,Fiber optic,0,No
+TEL-1288,Male,12,Month-to-month,Mailed check,105.0,500.0,Yes,No,1,No
+TEL-1289,Female,60,Month-to-month,Electronic check,29.85,4500.0,No,Fiber optic,1,No
+TEL-1290,Male,1,Month-to-month,Electronic check,29.85,500.0,Yes,DSL,0,Yes
+TEL-1291,Male,24,One year,Mailed check,105.0,100.5,Yes,DSL,0,No
+TEL-1292,Male,24,Month-to-month,Credit card,56.95,500.0,Yes,No,0,No
+TEL-1293,Female,24,One year,Bank transfer,56.95,,Yes,DSL,0,No
+TEL-1294,Female,1,Month-to-month,Credit card,ErrorVal,500.0,No,No,0,Yes
+TEL-1295,Female,60,Month-to-month,Credit card,29.85,100.5,Yes,No,1,Yes
+TEL-1296,Female,60,One year,Electronic check,89.9,100.5,No,DSL,0,No
+TEL-1297,Male,24,Month-to-month,Bank transfer,29.85,100.5,No,DSL,0,No
+TEL-1298,Male,36,Month-to-month,Bank transfer,56.95,500.0,No,Fiber optic,0,No
+TEL-1299,Female,60,Month-to-month,Credit card,105.0,500.0,Yes,DSL,0,Yes
+TEL-1300,Male,36,Two year,Mailed check,56.95,100.5,No,Fiber optic,0,Yes
+TEL-1301,Male,1,One year,Credit card, ,,Yes,Fiber optic,0,No
+TEL-1302,Male,24,Month-to-month,Mailed check,56.95,1200.0,No,Fiber optic,0,No
+TEL-1303,Female,24,Month-to-month,Bank transfer,56.95,500.0,No internet,Fiber optic,1,No
+TEL-1304,Female,12,Month-to-month,Credit card,29.85,4500.0,No,DSL,0,No
+TEL-1305,Male,36,One year,Electronic check,56.95,100.5,No,Fiber optic,1,No
+TEL-1306,Female,60,One year,Credit card,56.95,500.0,No,DSL,1,No
+TEL-1307,Female,60,Month-to-month,Bank transfer,29.85,1200.0,No,DSL,0,No
+TEL-1308,Female,12,Month-to-month,Electronic check,56.95,4500.0,No internet,Fiber optic,0,No
+TEL-1309,Female,1,Month-to-month,Electronic check,56.95,1200.0,No internet,No,0,No
+TEL-1310,Female,-1,One year,Mailed check,89.9,100.5,No,DSL,1,No
+TEL-1311,Male,48,One year,Electronic check,89.9,,No,Fiber optic,0,No
+TEL-1312,Female,1,Month-to-month,Electronic check,89.9,100.5,No internet,Fiber optic,0,No
+TEL-1313,Male,60,Month-to-month,Credit card,29.85,4500.0,No internet,DSL,0,No
+TEL-1314,Male,60,Month-to-month,Bank transfer,29.85,,No,DSL,0,No
+TEL-1315,Female,24,Two year,Mailed check,89.9,100.5,No,No,1,No
+TEL-1316,Male,24,Month-to-month,Credit card,56.95,1200.0,Yes,Fiber optic,0,Yes
+TEL-1317,Male,12,One year,Electronic check,29.85,100.5,No internet,Fiber optic,0,Yes
+TEL-1318,Male,1,One year,Electronic check,105.0,500.0,Yes,Fiber optic,0,Yes
+TEL-1319,Female,6,Month-to-month,Mailed check,89.9,500.0,No,DSL,1,No
+TEL-1320,Female,48,Month-to-month,Bank transfer,56.95,500.0,Yes,Fiber optic,0,No
+TEL-1321,Male,1,Month-to-month,Mailed check,29.85,,Yes,Fiber optic,0,No
+TEL-1322,Female,6,One year,Credit card,89.9,1200.0,No,Fiber optic,0,No
+TEL-1323,Female,12,One year,Mailed check,56.95,500.0,No internet,DSL,0,No
+TEL-1324,Female,24,One year,Electronic check,89.9,4500.0,Yes,DSL,0,No
+TEL-1325,Female,60,Month-to-month,Credit card,89.9,,No,DSL,0,Yes
+TEL-1326,Male,6,Month-to-month,Electronic check,105.0,100.5,Yes,No,0,No
+TEL-1327,Male,6,Two year,Bank transfer,56.95,,Yes,Fiber optic,0,Yes
+TEL-1328,Female,36,One year,Electronic check,29.85,100.5,No,Fiber optic,0,Yes
+TEL-1329,Female,12,Month-to-month,Electronic check,89.9,4500.0,No,DSL,0,No
+TEL-1330,Male,6,Two year,Mailed check,89.9,100.5,Yes,DSL,0,Yes
+TEL-1331,Male,12,One year,Electronic check,89.9,100.5,No,Fiber optic,1,No
+TEL-1332,Female,1,One year,Credit card,29.85,500.0,Yes,Fiber optic,1,Yes
+TEL-1333,Male,1,One year,Credit card,29.85,1200.0,No,Fiber optic,0,No
+TEL-1334,Female,12,Two year,Bank transfer,105.0,500.0,No internet,DSL,0,Yes
+TEL-1335,Female,12,One year,Credit card,89.9,100.5,No internet,Fiber optic,0,No
+TEL-1336,Male,60,Month-to-month,Mailed check,105.0,500.0,No,DSL,0,Yes
+TEL-1337,Male,12,Month-to-month,Bank transfer,89.9,,No,DSL,0,No
+TEL-1338,Female,24,Two year,Credit card,56.95,500.0,No internet,Fiber optic,0,No
+TEL-1339,Female,24,Month-to-month,Mailed check,89.9,100.5,Yes,DSL,0,Yes
+TEL-1340,Male,1,Month-to-month,Credit card,105.0,500.0,No internet,DSL,1,Yes
+TEL-1341,Female,36,Month-to-month,Credit card,56.95,100.5,No internet,Fiber optic,0,No
+TEL-1342,Male,1,Month-to-month,Electronic check,89.9,4500.0,Yes,Fiber optic,0,No
+TEL-1343,Female,-5,One year,Credit card,29.85,4500.0,Yes,No,0,No
+TEL-1344,Male,1,Two year,Credit card,56.95,500.0,No internet,Fiber optic,0,Yes
+TEL-1345,Male,12,Month-to-month,Mailed check,89.9,500.0,No,DSL,0,Yes
+TEL-1346,Male,1,Month-to-month,Mailed check,29.85,1200.0,Yes,DSL,0,Yes
+TEL-1347,Female,-1,Month-to-month,Electronic check,29.85,500.0,Yes,No,0,No
+TEL-1348,Female,24,Two year,Credit card,56.95,4500.0,No,Fiber optic,0,No
+TEL-1349,Male,24,One year,Electronic check,29.85,1200.0,No,Fiber optic,1,No
+TEL-1350,Female,1,Month-to-month,Credit card,29.85,1200.0,No,DSL,0,Yes
+TEL-1351,Male,36,Two year,Bank transfer,56.95,500.0,No internet,Fiber optic,0,No
+TEL-1352,Male,6,Two year,Bank transfer,105.0,500.0,Yes,DSL,0,Yes
+TEL-1353,Female,60,Two year,Electronic check,56.95,,No,Fiber optic,0,No
+TEL-1354,Female,6,Two year,Electronic check,29.85,500.0,No,No,0,No
+TEL-1355,Male,1,Month-to-month,Electronic check,29.85,1200.0,No,No,0,No
+TEL-1356,Female,1,One year,Mailed check,89.9,100.5,Yes,Fiber optic,1,No
+TEL-1357,Female,12,Month-to-month,Mailed check,56.95,1200.0,No internet,Fiber optic,1,No
+TEL-1358,Male,24,Two year,Mailed check,105.0,500.0,No internet,No,0,No
+TEL-1359,Male,1,One year,Electronic check,89.9,100.5,No,Fiber optic,1,No
+TEL-1360,Female,48,One year,Credit card,89.9,100.5,No,DSL,0,Yes
+TEL-1361,Male,12,One year,Bank transfer,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1362,Male,24,Month-to-month,Electronic check,89.9,1200.0,No,DSL,0,No
+TEL-1363,Female,12,Month-to-month,Mailed check,29.85,500.0,No,Fiber optic,1,No
+TEL-1364,Male,12,Two year,Mailed check,105.0,100.5,No,Fiber optic,0,No
+TEL-1365,Male,24,Two year,Electronic check,89.9,1200.0,No internet,Fiber optic,0,Yes
+TEL-1366,Female,1,Month-to-month,Electronic check,56.95,100.5,No,DSL,0,No
+TEL-1367,Female,1,Month-to-month,Mailed check,29.85,500.0,No,DSL,0,Yes
+TEL-1368,Male,60,Month-to-month,Credit card,29.85,100.5,No,Fiber optic,0,No
+TEL-1369,Male,60,One year,Mailed check,89.9,100.5,Yes,No,1,No
+TEL-1370,Female,12,Two year,Mailed check,29.85,100.5,No,Fiber optic,0,No
+TEL-1371,Female,6,Month-to-month,Electronic check,56.95,500.0,No,DSL,0,No
+TEL-1372,Female,24,Month-to-month,Credit card,29.85,100.5,No,No,0,No
+TEL-1373,Female,12,Two year,Mailed check,89.9,500.0,No,No,0,Yes
+TEL-1374,Male,1,One year,Mailed check,105.0,500.0,No,DSL,0,No
+TEL-1375,Female,1,Month-to-month,Bank transfer,89.9,500.0,No,DSL,0,No
+TEL-1376,Female,36,One year,Electronic check,89.9,500.0,No,Fiber optic,0,No
+TEL-1377,Male,36,Month-to-month,Bank transfer,29.85,4500.0,No,No,0,No
+TEL-1378,Female,1,Month-to-month,Bank transfer,29.85,100.5,No internet,No,0,No
+TEL-1379,Male,6,One year,Mailed check,89.9,500.0,Yes,No,0,No
+TEL-1380,Female,6,One year,Electronic check,56.95,100.5,Yes,Fiber optic,0,No
+TEL-1381,Female,36,Two year,Credit card,56.95,100.5,No,Fiber optic,0,No
+TEL-1382,Female,1,One year,Mailed check,29.85,500.0,Yes,DSL,1,No
+TEL-1383,Male,1,One year,Credit card,29.85,500.0,Yes,DSL,0,Yes
+TEL-1384,Male,48,Month-to-month,Credit card,29.85,4500.0,No,Fiber optic,0,No
+TEL-1385,Female,1,Month-to-month,Electronic check,105.0,500.0,No,Fiber optic,0,No
+TEL-1386,Male,36,Month-to-month,Bank transfer,29.85,,No,Fiber optic,0,Yes
+TEL-1387,Male,6,Month-to-month,Electronic check,56.95,100.5,No internet,Fiber optic,1,No
+TEL-1388,Male,1,One year,Credit card,29.85,100.5,No,DSL,0,No
+TEL-1389,Male,6,Two year,Mailed check,89.9,100.5,No internet,Fiber optic,0,No
+TEL-1390,Male,36,Month-to-month,Credit card,56.95,100.5,Yes,DSL,0,No
+TEL-1391,Male,60,Month-to-month,Mailed check,105.0,500.0,No,Fiber optic,0,No
+TEL-1392,Female,48,Two year,Mailed check,105.0,1200.0,No internet,Fiber optic,1,Yes
+TEL-1393,Female,12,Month-to-month,Electronic check,56.95,100.5,No,Fiber optic,0,No
+TEL-1394,Male,36,One year,Credit card,105.0,,No,No,0,Yes
+TEL-1395,Female,6,One year,Bank transfer, ,4500.0,No,DSL,0,No
+TEL-1396,Female,6,One year,Credit card,105.0,100.5,Yes,Fiber optic,0,No
+TEL-1397,Female,60,Month-to-month,Credit card,105.0,100.5,No,DSL,1,No
+TEL-1398,Female,1,Month-to-month,Bank transfer,29.85,100.5,No,Fiber optic,0,Yes
+TEL-1399,Male,1,One year,Electronic check,56.95,100.5,No internet,No,0,Yes
+TEL-1400,Female,6,One year,Credit card,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1401,Female,1,Month-to-month,Credit card,29.85,500.0,No internet,No,0,Yes
+TEL-1402,Male,1,One year,Mailed check, ,100.5,No internet,DSL,0,No
+TEL-1403,Male,24,Month-to-month,Credit card,56.95,500.0,Yes,No,0,No
+TEL-1404,Female,12,One year,Bank transfer,89.9,,No,DSL,0,No
+TEL-1405,Female,60,Month-to-month,Mailed check,105.0,1200.0,No internet,No,0,No
+TEL-1406,Female,48,Two year,Electronic check,105.0,,No internet,DSL,0,No
+TEL-1407,Female,6,Month-to-month,Mailed check, ,100.5,No,DSL,1,No
+TEL-1408,Female,6,Month-to-month,Bank transfer,29.85,500.0,No,Fiber optic,0,No
+TEL-1409,Female,12,Month-to-month,Bank transfer,29.85,500.0,No,No,0,No
+TEL-1410,Male,24,Month-to-month,Mailed check,56.95,100.5,No,DSL,0,No
+TEL-1411,Female,6,Two year,Electronic check,29.85,100.5,Yes,DSL,0,Yes
+TEL-1412,Female,24,Two year,Mailed check,29.85,1200.0,No,No,0,No
+TEL-1413,Male,12,Month-to-month,Electronic check,56.95,1200.0,Yes,DSL,1,No
+TEL-1414,Male,24,Month-to-month,Mailed check,89.9,500.0,Yes,DSL,0,No
+TEL-1415,Male,12,One year,Bank transfer,56.95,500.0,No,Fiber optic,0,No
+TEL-1416,Male,6,Two year,Credit card,56.95,500.0,No,DSL,0,Yes
+TEL-1417,Female,60,One year,Credit card,89.9,100.5,No,No,0,No
+TEL-1418,Female,48,Month-to-month,Electronic check,29.85,500.0,No,Fiber optic,0,Yes
+TEL-1419,Female,1,Month-to-month,Electronic check,29.85,100.5,No,Fiber optic,0,No
+TEL-1420,Female,60,One year,Electronic check,89.9,100.5,Yes,No,0,No
+TEL-1421,Female,12,Month-to-month,Bank transfer,89.9,,No,Fiber optic,0,No
+TEL-1422,Female,60,One year,Mailed check,89.9,500.0,No internet,DSL,0,No
+TEL-1423,Male,48,Month-to-month,Bank transfer,29.85,1200.0,No,DSL,0,No
+TEL-1424,Female,12,One year,Credit card,105.0,500.0,No,Fiber optic,0,No
+TEL-1425,Male,1,Month-to-month,Electronic check,89.9,500.0,No,DSL,0,No
+TEL-1426,Male,6,One year,Mailed check,56.95,100.5,No internet,No,0,No
+TEL-1427,Female,24,Month-to-month,Credit card,89.9,100.5,Yes,Fiber optic,0,Yes
+TEL-1428,Male,24,One year,Credit card,105.0,100.5,No,DSL,0,No
+TEL-1429,Female,6,Month-to-month,Credit card,56.95,1200.0,No,Fiber optic,0,No
+TEL-1430,Male,1,One year,Bank transfer,56.95,1200.0,No,Fiber optic,0,No
+TEL-1431,Female,48,One year,Electronic check, ,500.0,Yes,No,0,No
+TEL-1432,Male,-1,One year,Credit card,89.9,500.0,No,No,0,No
+TEL-1433,Female,24,One year,Electronic check,56.95,,Yes,Fiber optic,0,Yes
+TEL-1434,Female,1,One year,Bank transfer,89.9,100.5,No,Fiber optic,0,Yes
+TEL-1435,Female,6,Two year,Credit card,56.95,100.5,No,Fiber optic,1,No
+TEL-1436,Female,1,Month-to-month,Bank transfer,29.85,500.0,Yes,Fiber optic,0,No
+TEL-1437,Female,60,Two year,Bank transfer,56.95,1200.0,No internet,DSL,0,No
+TEL-1438,Male,1,Month-to-month,Electronic check,105.0,,Yes,DSL,0,No
+TEL-1439,Male,24,Month-to-month,Credit card,105.0,100.5,No internet,Fiber optic,0,No
+TEL-1440,Male,6,Month-to-month,Bank transfer,56.95,4500.0,No,DSL,0,No
+TEL-1441,Female,24,Month-to-month,Credit card,56.95,4500.0,Yes,DSL,0,No
+TEL-1442,Male,36,One year,Electronic check,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1443,Female,48,One year,Bank transfer, ,500.0,No internet,DSL,0,No
+TEL-1444,Female,6,One year,Electronic check, ,500.0,Yes,Fiber optic,0,No
+TEL-1445,Male,1,Month-to-month,Credit card,89.9,,Yes,Fiber optic,0,No
+TEL-1446,Male,1,Month-to-month,Credit card,105.0,100.5,No,No,0,No
+TEL-1447,Female,60,Month-to-month,Electronic check,89.9,1200.0,No,Fiber optic,0,Yes
+TEL-1448,Male,60,Month-to-month,Mailed check,56.95,500.0,No,DSL,0,No
+TEL-1449,Female,24,Month-to-month,Bank transfer,29.85,1200.0,Yes,Fiber optic,0,Yes
+TEL-1450,Female,24,Month-to-month,Credit card,56.95,500.0,Yes,No,0,No
+TEL-1451,Female,36,Month-to-month,Credit card,89.9,500.0,Yes,No,0,No
+TEL-1452,Female,1,One year,Bank transfer,89.9,4500.0,Yes,Fiber optic,0,No
+TEL-1453,Female,60,One year,Electronic check,56.95,4500.0,No,DSL,0,No
+TEL-1454,Male,12,Two year,Electronic check,105.0,4500.0,No,No,1,Yes
+TEL-1455,Male,12,Two year,Electronic check,29.85,100.5,Yes,DSL,1,No
+TEL-1456,Female,24,One year,Mailed check,56.95,1200.0,No,Fiber optic,0,No
+TEL-1457,Female,1,Month-to-month,Mailed check,89.9,100.5,No,Fiber optic,0,No
+TEL-1458,Male,1,One year,Credit card,89.9,500.0,No internet,DSL,0,Yes
+TEL-1459,Male,36,One year,Electronic check,89.9,500.0,No internet,DSL,0,No
+TEL-1460,Female,1,Month-to-month,Bank transfer,29.85,500.0,No internet,DSL,0,Yes
+TEL-1461,Male,24,Month-to-month,Credit card,29.85,500.0,Yes,Fiber optic,0,Yes
+TEL-1462,Female,6,Two year,Bank transfer,89.9,,Yes,No,1,No
+TEL-1463,Male,12,Month-to-month,Credit card,56.95,100.5,No,DSL,0,Yes
+TEL-1464,Female,6,One year,Mailed check,29.85,1200.0,Yes,No,0,Yes
+TEL-1465,Male,12,One year,Credit card,89.9,500.0,No,DSL,0,No
+TEL-1466,Female,36,Month-to-month,Mailed check,56.95,100.5,No,Fiber optic,1,No
+TEL-1467,Male,6,Month-to-month,Credit card,89.9,100.5,No internet,DSL,0,No
+TEL-1468,Male,24,Month-to-month,Electronic check,105.0,,No internet,No,0,No
+TEL-1469,Female,12,Month-to-month,Bank transfer,29.85,4500.0,No,Fiber optic,0,No
+TEL-1470,Male,36,Month-to-month,Electronic check,29.85,,No,Fiber optic,1,No
+TEL-1471,Female,60,Two year,Credit card,89.9,,No,No,0,No
+TEL-1472,Male,36,Month-to-month,Credit card,89.9,100.5,Yes,Fiber optic,1,No
+TEL-1473,Female,6,Month-to-month,Credit card,89.9,500.0,No,No,0,No
+TEL-1474,Male,1,Month-to-month,Mailed check,105.0,1200.0,Yes,Fiber optic,0,Yes
+TEL-1475,Female,6,Two year,Bank transfer,105.0,500.0,No,No,0,No
+TEL-1476,Male,24,Month-to-month,Bank transfer,ErrorVal,500.0,No,Fiber optic,0,No
+TEL-1477,Female,1,Month-to-month,Credit card,56.95,500.0,No,DSL,0,No
+TEL-1478,Male,12,Two year,Credit card,56.95,500.0,No,Fiber optic,1,No
+TEL-1479,Female,24,Two year,Mailed check,56.95,500.0,No,DSL,0,Yes
+TEL-1480,Female,6,Month-to-month,Electronic check,29.85,100.5,No internet,Fiber optic,0,No
+TEL-1481,Female,48,Two year,Electronic check,56.95,500.0,Yes,Fiber optic,0,No
+TEL-1482,Male,1,Month-to-month,Bank transfer,29.85,500.0,No,Fiber optic,0,Yes
+TEL-1483,Female,1,Month-to-month,Mailed check,105.0,500.0,No,DSL,0,Yes
+TEL-1484,Male,36,Month-to-month,Credit card,56.95,100.5,No,DSL,0,No
+TEL-1485,Female,12,Month-to-month,Bank transfer,56.95,1200.0,No internet,Fiber optic,0,Yes
+TEL-1486,Male,36,One year,Mailed check,56.95,100.5,Yes,No,0,No
+TEL-1487,Female,12,Month-to-month,Electronic check,29.85,500.0,No,DSL,1,No
+TEL-1488,Male,6,Month-to-month,Mailed check,29.85,1200.0,No,Fiber optic,0,No
+TEL-1489,Male,48,One year,Electronic check,56.95,500.0,No internet,Fiber optic,1,No
+TEL-1490,Female,48,One year,Mailed check,29.85,100.5,Yes,Fiber optic,0,Yes
+TEL-1491,Male,36,Month-to-month,Bank transfer,89.9,1200.0,No,DSL,0,No
+TEL-1492,Male,6,One year,Electronic check,105.0,500.0,No,Fiber optic,0,No
+TEL-1493,Female,24,Month-to-month,Bank transfer,105.0,1200.0,Yes,DSL,0,Yes
+TEL-1494,Male,12,One year,Bank transfer,89.9,1200.0,No,No,1,No
+TEL-1495,Male,1,One year,Electronic check,29.85,1200.0,No,DSL,0,Yes
+TEL-1496,Male,60,Two year,Electronic check,105.0,500.0,No,DSL,0,Yes
+TEL-1497,Female,1,Month-to-month,Credit card,105.0,100.5,No internet,DSL,1,No
+TEL-1498,Male,-5,Month-to-month,Credit card,29.85,100.5,No,DSL,0,No
+TEL-1499,Female,12,Month-to-month,Credit card,89.9,500.0,No,Fiber optic,0,No
+TEL-1500,Male,1,Month-to-month,Bank transfer,29.85,500.0,No,DSL,0,No
+TEL-1501,Male,24,Month-to-month,Bank transfer,105.0,500.0,Yes,DSL,1,No
+TEL-1502,Male,60,Two year,Credit card, ,100.5,Yes,Fiber optic,0,No
+TEL-1503,Female,36,Month-to-month,Bank transfer,29.85,100.5,No,DSL,0,Yes
+TEL-1504,Male,48,Month-to-month,Bank transfer,105.0,500.0,No,DSL,0,No
+TEL-1505,Male,36,One year,Electronic check,89.9,100.5,Yes,No,1,Yes
+TEL-1506,Female,36,Month-to-month,Electronic check,ErrorVal,1200.0,No,Fiber optic,0,No
+TEL-1507,Male,48,One year,Bank transfer,56.95,100.5,No,No,0,No
+TEL-1508,Female,6,Month-to-month,Credit card,105.0,500.0,Yes,No,0,Yes
+TEL-1509,Female,12,Month-to-month,Mailed check,29.85,,No,Fiber optic,1,No
+TEL-1510,Male,6,Month-to-month,Credit card,56.95,100.5,Yes,DSL,1,No
+TEL-1511,Female,-1,Month-to-month,Mailed check,29.85,500.0,No internet,Fiber optic,1,No
+TEL-1512,Male,60,Two year,Credit card, ,100.5,No internet,No,0,No
+TEL-1513,Female,1,Month-to-month,Electronic check,105.0,1200.0,No,Fiber optic,0,No
+TEL-1514,Female,36,Month-to-month,Bank transfer,105.0,500.0,Yes,Fiber optic,0,No
+TEL-1515,Male,60,Month-to-month,Bank transfer,105.0,500.0,No,DSL,1,No
+TEL-1516,Female,1,Month-to-month,Electronic check,29.85,500.0,No internet,No,0,Yes
+TEL-1517,Female,24,Two year,Mailed check,56.95,4500.0,No,Fiber optic,0,Yes
+TEL-1518,Female,60,Month-to-month,Mailed check,29.85,100.5,Yes,No,0,No
+TEL-1519,Female,1,One year,Mailed check,29.85,100.5,No,DSL,0,Yes
+TEL-1520,Female,36,Two year,Electronic check,29.85,4500.0,No internet,DSL,0,No
+TEL-1521,Male,6,One year,Mailed check,56.95,500.0,No,DSL,0,No
+TEL-1522,Female,60,Two year,Electronic check,29.85,4500.0,No,Fiber optic,0,No
+TEL-1523,Male,-5,Month-to-month,Credit card,29.85,500.0,No,DSL,0,No
+TEL-1524,Female,60,Month-to-month,Credit card,29.85,4500.0,No,DSL,0,No
+TEL-1525,Male,12,Month-to-month,Electronic check,29.85,500.0,Yes,No,0,No
+TEL-1526,Male,60,One year,Bank transfer,ErrorVal,1200.0,No,DSL,0,No
+TEL-1527,Female,48,Two year,Credit card,89.9,,Yes,No,0,Yes
+TEL-1528,Female,6,Month-to-month,Mailed check,ErrorVal,500.0,No,DSL,0,No
+TEL-1529,Female,48,One year,Electronic check,56.95,100.5,Yes,No,0,No
+TEL-1530,Male,1,Month-to-month,Mailed check,29.85,100.5,No,Fiber optic,0,Yes
+TEL-1531,Female,24,One year,Mailed check,89.9,100.5,Yes,No,0,No
+TEL-1532,Male,6,Month-to-month,Bank transfer,56.95,100.5,No,No,0,No
+TEL-1533,Male,1,Two year,Mailed check,29.85,500.0,No,DSL,0,Yes
+TEL-1534,Male,1,One year,Bank transfer,29.85,500.0,Yes,DSL,1,No
+TEL-1535,Female,36,Month-to-month,Credit card,29.85,500.0,Yes,DSL,0,No
+TEL-1536,Female,6,Month-to-month,Electronic check,29.85,500.0,Yes,Fiber optic,0,No
+TEL-1537,Male,36,Month-to-month,Mailed check,56.95,1200.0,No internet,No,0,Yes
+TEL-1538,Male,1,Month-to-month,Electronic check,89.9,100.5,No,Fiber optic,0,No
+TEL-1539,Female,6,Month-to-month,Mailed check,29.85,100.5,No,Fiber optic,0,Yes
+TEL-1540,Male,24,Two year,Electronic check,29.85,100.5,Yes,DSL,0,No
+TEL-1541,Female,48,One year,Mailed check,105.0,500.0,No,No,0,No
+TEL-1542,Male,6,Month-to-month,Mailed check,29.85,100.5,No internet,No,0,Yes
+TEL-1543,Female,24,Month-to-month,Mailed check,56.95,100.5,No internet,DSL,1,No
+TEL-1544,Male,60,Two year,Mailed check,105.0,500.0,No,Fiber optic,0,No
+TEL-1545,Female,24,One year,Mailed check,29.85,4500.0,Yes,DSL,0,No
+TEL-1546,Male,6,Month-to-month,Mailed check,29.85,100.5,Yes,Fiber optic,0,Yes
+TEL-1547,Female,1,One year,Mailed check,56.95,1200.0,Yes,Fiber optic,0,No
+TEL-1548,Female,60,Month-to-month,Mailed check,56.95,1200.0,Yes,DSL,1,No
+TEL-1549,Male,1,Month-to-month,Mailed check,56.95,1200.0,Yes,Fiber optic,0,No
+TEL-1550,Male,60,Month-to-month,Electronic check,105.0,,Yes,DSL,1,Yes
+TEL-1551,Female,24,Month-to-month,Bank transfer,29.85,100.5,No,Fiber optic,0,No
+TEL-1552,Male,60,Month-to-month,Mailed check,56.95,100.5,No internet,Fiber optic,0,No
+TEL-1553,Female,48,Two year,Bank transfer,56.95,4500.0,No,DSL,0,No
+TEL-1554,Male,-1,Two year,Mailed check,29.85,500.0,No internet,Fiber optic,0,No
+TEL-1555,Female,12,One year,Mailed check,89.9,500.0,No,Fiber optic,0,No
+TEL-1556,Female,48,Month-to-month,Electronic check,29.85,1200.0,Yes,DSL,0,No
+TEL-1557,Female,12,Month-to-month,Credit card,56.95,1200.0,No,DSL,0,No
+TEL-1558,Female,12,One year,Credit card,29.85,,Yes,Fiber optic,0,Yes
+TEL-1559,Female,24,Month-to-month,Electronic check,56.95,,No,No,1,Yes
+TEL-1560,Female,60,Month-to-month,Bank transfer,56.95,1200.0,No,DSL,0,No
+TEL-1561,Male,-1,Month-to-month,Credit card,105.0,100.5,No internet,DSL,0,Yes
+TEL-1562,Male,48,Two year,Electronic check,29.85,4500.0,Yes,DSL,0,No
+TEL-1563,Male,12,Month-to-month,Electronic check,56.95,100.5,Yes,Fiber optic,0,Yes
+TEL-1564,Female,12,Month-to-month,Credit card,56.95,100.5,No internet,DSL,0,No
+TEL-1565,Female,36,One year,Bank transfer,89.9,4500.0,Yes,DSL,1,No
+TEL-1566,Female,6,Month-to-month,Electronic check,56.95,100.5,No,Fiber optic,1,Yes
+TEL-1567,Female,1,Month-to-month,Mailed check,89.9,100.5,No,Fiber optic,0,Yes
+TEL-1568,Male,12,Month-to-month,Bank transfer,89.9,100.5,No internet,DSL,1,No
+TEL-1569,Male,6,Month-to-month,Bank transfer,105.0,4500.0,No internet,Fiber optic,0,No
+TEL-1570,Female,6,One year,Credit card,56.95,500.0,No internet,Fiber optic,0,No
+TEL-1571,Male,6,Month-to-month,Credit card,56.95,1200.0,Yes,DSL,0,No
+TEL-1572,Male,1,Month-to-month,Mailed check,105.0,100.5,No internet,DSL,0,No
+TEL-1573,Female,1,Two year,Electronic check, ,1200.0,No,No,0,No
+TEL-1574,Male,-1,Two year,Credit card,105.0,1200.0,No,DSL,0,Yes
+TEL-1575,Female,12,Two year,Credit card,56.95,500.0,Yes,Fiber optic,0,No
+TEL-1576,Male,12,Month-to-month,Bank transfer,29.85,500.0,No,No,0,No
+TEL-1577,Female,36,Month-to-month,Credit card,56.95,100.5,No internet,DSL,0,No
+TEL-1578,Female,6,Two year,Credit card,89.9,,No internet,DSL,1,No
+TEL-1579,Female,60,One year,Credit card,56.95,1200.0,No,Fiber optic,0,No
+TEL-1580,Female,48,Month-to-month,Credit card,56.95,,Yes,No,0,No
+TEL-1581,Male,1,Month-to-month,Bank transfer,105.0,500.0,No,No,0,Yes
+TEL-1582,Female,12,Month-to-month,Mailed check,56.95,1200.0,No internet,Fiber optic,0,Yes
+TEL-1583,Female,60,Two year,Mailed check,105.0,1200.0,No,DSL,0,No
+TEL-1584,Female,60,Month-to-month,Electronic check,56.95,1200.0,No,Fiber optic,0,No
+TEL-1585,Male,12,Month-to-month,Credit card,56.95,,Yes,Fiber optic,0,No
+TEL-1586,Female,24,Month-to-month,Bank transfer,56.95,500.0,No,Fiber optic,0,Yes
+TEL-1587,Male,1,One year,Electronic check,89.9,100.5,No,DSL,0,Yes
+TEL-1588,Female,-1,Two year,Electronic check,29.85,1200.0,No internet,DSL,0,No
+TEL-1589,Male,6,Month-to-month,Mailed check,29.85,1200.0,No,Fiber optic,0,No
+TEL-1590,Male,60,One year,Bank transfer,ErrorVal,500.0,No,Fiber optic,0,Yes
+TEL-1591,Female,24,Two year,Bank transfer,29.85,100.5,No,DSL,1,No
+TEL-1592,Male,24,Month-to-month,Bank transfer,56.95,500.0,Yes,DSL,0,No
+TEL-1593,Female,24,Month-to-month,Mailed check,56.95,500.0,No internet,No,1,Yes
+TEL-1594,Female,6,Month-to-month,Mailed check,56.95,500.0,No,Fiber optic,0,Yes
+TEL-1595,Female,1,One year,Mailed check,89.9,1200.0,No,DSL,1,No
+TEL-1596,Male,6,One year,Mailed check,29.85,1200.0,No,DSL,0,No
+TEL-1597,Male,1,One year,Mailed check,56.95,100.5,No,DSL,0,No
+TEL-1598,Female,48,One year,Credit card,56.95,500.0,No,No,1,No
+TEL-1599,Female,12,Month-to-month,Credit card,89.9,100.5,No,Fiber optic,0,No
+TEL-1600,Male,1,Two year,Bank transfer,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1601,Female,-5,Month-to-month,Electronic check,56.95,1200.0,No,Fiber optic,0,No
+TEL-1602,Female,60,Month-to-month,Bank transfer,29.85,,Yes,DSL,0,Yes
+TEL-1603,Female,60,One year,Electronic check,29.85,500.0,No,No,1,No
+TEL-1604,Male,-1,One year,Mailed check,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1605,Male,1,Month-to-month,Electronic check,29.85,4500.0,No,DSL,0,No
+TEL-1606,Male,12,Two year,Bank transfer,105.0,4500.0,No internet,DSL,0,No
+TEL-1607,Female,48,Two year,Bank transfer,29.85,100.5,No internet,Fiber optic,0,No
+TEL-1608,Female,36,Month-to-month,Electronic check,105.0,,No,No,0,No
+TEL-1609,Female,1,Two year,Credit card,ErrorVal,500.0,No,DSL,0,Yes
+TEL-1610,Male,48,Month-to-month,Mailed check,56.95,500.0,Yes,No,0,No
+TEL-1611,Female,6,Month-to-month,Mailed check,29.85,100.5,No,Fiber optic,0,Yes
+TEL-1612,Female,6,Month-to-month,Bank transfer,56.95,500.0,No internet,DSL,1,Yes
+TEL-1613,Female,24,Two year,Credit card,89.9,100.5,Yes,DSL,0,No
+TEL-1614,Female,24,One year,Electronic check,56.95,100.5,No,DSL,0,No
+TEL-1615,Male,24,Month-to-month,Mailed check,29.85,500.0,No internet,Fiber optic,0,Yes
+TEL-1616,Male,1,Month-to-month,Credit card,56.95,4500.0,No internet,DSL,0,Yes
+TEL-1617,Female,60,One year,Mailed check,105.0,4500.0,Yes,DSL,0,No
+TEL-1618,Male,6,Month-to-month,Credit card,89.9,500.0,No,Fiber optic,1,No
+TEL-1619,Male,1,Two year,Credit card,29.85,4500.0,Yes,Fiber optic,0,No
+TEL-1620,Female,60,Two year,Bank transfer,89.9,4500.0,Yes,DSL,1,Yes
+TEL-1621,Female,-5,Month-to-month,Mailed check,29.85,1200.0,No internet,Fiber optic,0,No
+TEL-1622,Male,60,Two year,Electronic check,29.85,100.5,No internet,Fiber optic,0,No
+TEL-1623,Female,48,Month-to-month,Bank transfer,105.0,1200.0,No,Fiber optic,0,Yes
+TEL-1624,Male,36,Two year,Bank transfer,29.85,,Yes,No,0,No
+TEL-1625,Female,24,One year,Electronic check,29.85,1200.0,No internet,DSL,0,No
+TEL-1626,Male,1,One year,Bank transfer,29.85,500.0,No,No,1,No
+TEL-1627,Female,12,Month-to-month,Credit card,105.0,500.0,No,Fiber optic,0,Yes
+TEL-1628,Male,12,Two year,Credit card,89.9,1200.0,No,Fiber optic,1,No
+TEL-1629,Male,6,Month-to-month,Mailed check,89.9,500.0,Yes,Fiber optic,0,No
+TEL-1630,Male,36,Month-to-month,Mailed check,89.9,100.5,No,Fiber optic,0,No
+TEL-1631,Female,12,Month-to-month,Electronic check,29.85,500.0,No,DSL,0,No
+TEL-1632,Male,1,One year,Mailed check,56.95,4500.0,Yes,Fiber optic,0,No
+TEL-1633,Male,6,Month-to-month,Credit card,56.95,4500.0,Yes,Fiber optic,1,No
+TEL-1634,Female,36,One year,Electronic check,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1635,Female,1,Two year,Electronic check,56.95,,Yes,DSL,0,Yes
+TEL-1636,Male,60,Month-to-month,Mailed check,105.0,500.0,No,No,0,Yes
+TEL-1637,Male,12,One year,Credit card,29.85,1200.0,No internet,Fiber optic,0,No
+TEL-1638,Female,12,Month-to-month,Electronic check,29.85,1200.0,Yes,DSL,0,No
+TEL-1639,Female,24,Two year,Credit card,29.85,4500.0,Yes,Fiber optic,0,No
+TEL-1640,Female,48,Two year,Credit card,29.85,,No,Fiber optic,0,Yes
+TEL-1641,Female,6,Month-to-month,Credit card,105.0,500.0,No internet,Fiber optic,0,No
+TEL-1642,Female,36,One year,Mailed check,56.95,4500.0,No,Fiber optic,0,No
+TEL-1643,Male,24,Month-to-month,Bank transfer,56.95,100.5,No,No,0,No
+TEL-1644,Female,6,Month-to-month,Bank transfer,89.9,1200.0,No,DSL,0,No
+TEL-1645,Male,60,Two year,Electronic check,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1646,Male,48,Month-to-month,Credit card,56.95,1200.0,Yes,No,0,No
+TEL-1647,Male,36,Month-to-month,Mailed check,56.95,100.5,No,No,0,No
+TEL-1648,Female,60,Month-to-month,Credit card,56.95,4500.0,No,Fiber optic,0,No
+TEL-1649,Male,60,Two year,Credit card, ,100.5,No,No,0,No
+TEL-1650,Male,36,Month-to-month,Mailed check,89.9,100.5,No,DSL,0,No
+TEL-1651,Female,48,Month-to-month,Bank transfer,56.95,1200.0,No,No,0,No
+TEL-1652,Male,36,One year,Credit card,105.0,500.0,Yes,DSL,0,No
+TEL-1653,Male,36,Two year,Credit card,29.85,4500.0,No,DSL,1,No
+TEL-1654,Female,24,Month-to-month,Bank transfer,29.85,500.0,Yes,DSL,0,No
+TEL-1655,Male,48,Month-to-month,Mailed check,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1656,Male,1,Month-to-month,Electronic check,56.95,4500.0,No,DSL,0,No
+TEL-1657,Male,60,Month-to-month,Bank transfer,56.95,500.0,No internet,DSL,0,No
+TEL-1658,Female,60,Month-to-month,Electronic check,89.9,100.5,No internet,DSL,0,No
+TEL-1659,Female,1,One year,Electronic check,105.0,1200.0,No,DSL,0,Yes
+TEL-1660,Female,48,One year,Bank transfer,56.95,500.0,Yes,Fiber optic,0,No
+TEL-1661,Male,1,One year,Credit card,56.95,1200.0,Yes,Fiber optic,0,No
+TEL-1662,Male,6,Month-to-month,Electronic check,29.85,500.0,No internet,DSL,0,No
+TEL-1663,Female,36,Two year,Electronic check,29.85,4500.0,No,Fiber optic,0,No
+TEL-1664,Male,1,Month-to-month,Mailed check,56.95,4500.0,No,No,0,No
+TEL-1665,Male,48,Two year,Credit card,56.95,1200.0,No,Fiber optic,0,No
+TEL-1666,Female,48,One year,Electronic check,105.0,100.5,No,DSL,0,No
+TEL-1667,Female,24,Month-to-month,Mailed check,29.85,4500.0,No internet,Fiber optic,0,No
+TEL-1668,Male,1,One year,Credit card,29.85,1200.0,Yes,DSL,1,No
+TEL-1669,Male,6,Month-to-month,Bank transfer,56.95,1200.0,No,DSL,0,Yes
+TEL-1670,Male,24,One year,Bank transfer,29.85,500.0,No internet,DSL,0,Yes
+TEL-1671,Female,-1,Month-to-month,Mailed check,29.85,4500.0,Yes,No,0,No
+TEL-1672,Female,24,Month-to-month,Bank transfer,89.9,1200.0,No,DSL,1,No
+TEL-1673,Female,6,Two year,Electronic check,29.85,100.5,No,DSL,0,No
+TEL-1674,Female,24,Month-to-month,Credit card,89.9,500.0,No internet,DSL,0,No
+TEL-1675,Male,24,Two year,Electronic check,29.85,4500.0,Yes,No,0,No
+TEL-1676,Female,48,Month-to-month,Electronic check,29.85,100.5,No,Fiber optic,0,No
+TEL-1677,Female,1,One year,Bank transfer,56.95,,Yes,DSL,1,No
+TEL-1678,Female,48,One year,Electronic check,105.0,1200.0,No,Fiber optic,0,No
+TEL-1679,Female,24,Month-to-month,Bank transfer,56.95,1200.0,Yes,Fiber optic,0,No
+TEL-1680,Female,-5,Month-to-month,Credit card,89.9,100.5,Yes,Fiber optic,1,No
+TEL-1681,Male,6,Month-to-month,Credit card,29.85,100.5,No,DSL,0,Yes
+TEL-1682,Male,24,Month-to-month,Electronic check,89.9,,No internet,No,0,No
+TEL-1683,Female,60,Month-to-month,Mailed check,29.85,100.5,Yes,DSL,0,No
+TEL-1684,Male,1,One year,Bank transfer,89.9,1200.0,Yes,Fiber optic,0,No
+TEL-1685,Female,60,Two year,Bank transfer,56.95,500.0,No,DSL,0,No
+TEL-1686,Female,36,Two year,Electronic check,105.0,100.5,No,DSL,0,No
+TEL-1687,Male,1,One year,Bank transfer,56.95,100.5,No internet,DSL,0,No
+TEL-1688,Male,6,One year,Bank transfer,29.85,500.0,Yes,Fiber optic,0,No
+TEL-1689,Female,36,One year,Mailed check,29.85,,No,DSL,1,No
+TEL-1690,Female,1,Month-to-month,Mailed check,105.0,500.0,Yes,Fiber optic,0,No
+TEL-1691,Female,24,Two year,Electronic check,56.95,500.0,Yes,DSL,1,No
+TEL-1692,Male,6,One year,Mailed check,89.9,500.0,No,Fiber optic,0,No
+TEL-1693,Female,24,One year,Electronic check,29.85,500.0,No,No,0,No
+TEL-1694,Female,1,Month-to-month,Credit card,56.95,500.0,No,Fiber optic,1,No
+TEL-1695,Female,60,Month-to-month,Electronic check,29.85,4500.0,No,Fiber optic,0,No
+TEL-1696,Male,-5,Month-to-month,Credit card,ErrorVal,500.0,No,Fiber optic,0,Yes
+TEL-1697,Female,-5,Two year,Electronic check,89.9,500.0,No,DSL,0,No
+TEL-1698,Female,36,Month-to-month,Bank transfer,105.0,100.5,No internet,No,0,No
+TEL-1699,Male,1,Month-to-month,Mailed check,29.85,,Yes,DSL,0,No
+TEL-1700,Female,48,Two year,Credit card,89.9,100.5,Yes,Fiber optic,1,Yes
+TEL-1701,Female,1,Month-to-month,Electronic check,89.9,100.5,No,Fiber optic,0,Yes
+TEL-1702,Male,1,Month-to-month,Mailed check,56.95,1200.0,No,DSL,0,No
+TEL-1703,Female,6,Month-to-month,Electronic check,105.0,500.0,Yes,DSL,0,No
+TEL-1704,Male,12,One year,Mailed check,105.0,500.0,No internet,Fiber optic,0,No
+TEL-1705,Male,48,Two year,Mailed check,105.0,500.0,Yes,No,0,No
+TEL-1706,Female,36,Month-to-month,Electronic check,89.9,1200.0,No internet,No,0,Yes
+TEL-1707,Female,12,Two year,Credit card,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1708,Female,6,Month-to-month,Credit card,29.85,4500.0,No,Fiber optic,0,No
+TEL-1709,Female,-1,Two year,Bank transfer,ErrorVal,1200.0,No internet,No,1,No
+TEL-1710,Male,12,One year,Mailed check,29.85,500.0,Yes,DSL,0,Yes
+TEL-1711,Female,12,Two year,Bank transfer,89.9,500.0,No internet,DSL,0,No
+TEL-1712,Male,1,Month-to-month,Bank transfer,89.9,100.5,No,Fiber optic,0,No
+TEL-1713,Female,48,Two year,Electronic check,89.9,1200.0,No internet,No,0,No
+TEL-1714,Female,36,One year,Electronic check, ,500.0,No,No,0,Yes
+TEL-1715,Female,6,Month-to-month,Electronic check,56.95,500.0,No,Fiber optic,1,Yes
+TEL-1716,Male,1,Two year,Mailed check,56.95,500.0,Yes,DSL,0,No
+TEL-1717,Female,36,Month-to-month,Electronic check,29.85,,No,Fiber optic,1,No
+TEL-1718,Female,36,Two year,Electronic check,56.95,500.0,Yes,DSL,0,Yes
+TEL-1719,Female,6,Month-to-month,Mailed check,29.85,,Yes,DSL,1,No
+TEL-1720,Female,-5,One year,Mailed check,56.95,500.0,Yes,Fiber optic,0,No
+TEL-1721,Male,1,Month-to-month,Credit card,105.0,100.5,No,DSL,1,Yes
+TEL-1722,Female,12,Month-to-month,Electronic check,105.0,100.5,No,No,0,No
+TEL-1723,Male,60,Month-to-month,Electronic check,29.85,500.0,Yes,Fiber optic,0,No
+TEL-1724,Male,12,Month-to-month,Electronic check,56.95,100.5,Yes,Fiber optic,1,Yes
+TEL-1725,Male,24,Month-to-month,Credit card,105.0,100.5,No,DSL,0,No
+TEL-1726,Male,12,Month-to-month,Electronic check,29.85,,Yes,DSL,0,No
+TEL-1727,Male,6,One year,Credit card,29.85,4500.0,Yes,DSL,0,No
+TEL-1728,Male,-1,Month-to-month,Bank transfer,29.85,1200.0,Yes,No,1,No
+TEL-1729,Female,12,Month-to-month,Credit card,56.95,100.5,No internet,No,0,No
+TEL-1730,Male,60,One year,Bank transfer,29.85,100.5,No internet,Fiber optic,0,No
+TEL-1731,Male,6,Month-to-month,Electronic check,ErrorVal,100.5,No,DSL,0,Yes
+TEL-1732,Male,6,Two year,Bank transfer,56.95,1200.0,No,No,0,No
+TEL-1733,Female,1,Two year,Credit card,56.95,,No,DSL,1,No
+TEL-1734,Female,36,One year,Mailed check,29.85,500.0,No,DSL,0,No
+TEL-1735,Male,12,One year,Bank transfer,56.95,100.5,No,Fiber optic,0,Yes
+TEL-1736,Female,60,Two year,Bank transfer,89.9,500.0,No,No,1,No
+TEL-1737,Male,12,Month-to-month,Electronic check,89.9,500.0,Yes,DSL,0,No
+TEL-1738,Male,-5,Month-to-month,Credit card,89.9,500.0,Yes,DSL,0,No
+TEL-1739,Female,1,Month-to-month,Bank transfer,56.95,1200.0,No,No,0,No
+TEL-1740,Male,60,One year,Bank transfer,105.0,1200.0,No internet,DSL,0,No
+TEL-1741,Female,48,Month-to-month,Bank transfer,105.0,100.5,No,DSL,0,No
+TEL-1742,Female,48,One year,Bank transfer,89.9,100.5,No internet,Fiber optic,0,No
+TEL-1743,Male,48,Two year,Mailed check,29.85,,No internet,No,0,No
+TEL-1744,Male,48,Two year,Credit card,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1745,Female,24,Month-to-month,Electronic check,29.85,100.5,No,No,0,No
+TEL-1746,Male,1,Month-to-month,Electronic check,89.9,100.5,No,Fiber optic,0,No
+TEL-1747,Male,1,Two year,Mailed check,56.95,100.5,No internet,DSL,0,No
+TEL-1748,Male,60,One year,Credit card,56.95,500.0,No internet,No,0,No
+TEL-1749,Female,24,Month-to-month,Bank transfer,105.0,4500.0,No,Fiber optic,0,No
+TEL-1750,Female,48,Month-to-month,Mailed check,105.0,500.0,Yes,DSL,0,No
+TEL-1751,Male,12,Two year,Credit card,105.0,500.0,No,Fiber optic,0,No
+TEL-1752,Female,1,One year,Bank transfer,56.95,1200.0,Yes,DSL,0,No
+TEL-1753,Female,1,Two year,Mailed check,89.9,500.0,No,DSL,0,No
+TEL-1754,Female,36,Two year,Credit card,29.85,4500.0,No internet,DSL,0,Yes
+TEL-1755,Female,12,One year,Electronic check,29.85,4500.0,No,Fiber optic,0,Yes
+TEL-1756,Female,6,Month-to-month,Electronic check,29.85,100.5,No,No,0,No
+TEL-1757,Male,12,Month-to-month,Credit card,56.95,1200.0,No,Fiber optic,1,No
+TEL-1758,Male,1,Month-to-month,Electronic check,56.95,500.0,No,No,1,No
+TEL-1759,Male,24,Month-to-month,Credit card,105.0,,No,DSL,0,No
+TEL-1760,Female,6,One year,Bank transfer,29.85,500.0,No,DSL,0,No
+TEL-1761,Female,48,One year,Credit card,89.9,,No internet,DSL,0,No
+TEL-1762,Male,6,Two year,Bank transfer,56.95,1200.0,No internet,DSL,0,No
+TEL-1763,Female,12,Month-to-month,Mailed check,29.85,100.5,Yes,DSL,0,Yes
+TEL-1764,Male,1,One year,Credit card,56.95,500.0,No internet,Fiber optic,0,No
+TEL-1765,Male,1,One year,Mailed check,29.85,,No,No,0,Yes
+TEL-1766,Male,12,One year,Electronic check,56.95,4500.0,Yes,No,0,Yes
+TEL-1767,Female,12,One year,Bank transfer,56.95,100.5,Yes,DSL,0,No
+TEL-1768,Female,24,Month-to-month,Credit card,29.85,1200.0,Yes,No,0,No
+TEL-1769,Male,6,Month-to-month,Mailed check,29.85,500.0,No internet,DSL,0,No
+TEL-1770,Male,36,Month-to-month,Bank transfer,56.95,100.5,No,DSL,0,No
+TEL-1771,Male,60,Month-to-month,Bank transfer,105.0,500.0,No,No,0,No
+TEL-1772,Male,48,Month-to-month,Electronic check,56.95,100.5,Yes,Fiber optic,0,No
+TEL-1773,Female,1,One year,Electronic check,89.9,4500.0,No,DSL,0,No
+TEL-1774,Female,12,Two year,Bank transfer,89.9,500.0,Yes,Fiber optic,0,Yes
+TEL-1775,Male,1,One year,Bank transfer,105.0,4500.0,No,DSL,0,No
+TEL-1776,Male,6,One year,Credit card,105.0,100.5,No,Fiber optic,0,Yes
+TEL-1777,Female,-1,Month-to-month,Bank transfer,56.95,500.0,Yes,Fiber optic,1,No
+TEL-1778,Female,1,One year,Credit card,89.9,100.5,No internet,No,1,Yes
+TEL-1779,Male,12,Month-to-month,Bank transfer,105.0,100.5,Yes,DSL,0,No
+TEL-1780,Male,24,Month-to-month,Electronic check,56.95,100.5,No,DSL,0,No
+TEL-1781,Male,36,Month-to-month,Credit card,56.95,100.5,No,Fiber optic,0,Yes
+TEL-1782,Female,24,Month-to-month,Mailed check,29.85,500.0,No,Fiber optic,1,No
+TEL-1783,Female,1,Month-to-month,Electronic check,105.0,100.5,Yes,DSL,0,No
+TEL-1784,Female,6,Month-to-month,Credit card,105.0,500.0,Yes,Fiber optic,1,No
+TEL-1785,Male,24,Month-to-month,Credit card,29.85,500.0,No internet,No,0,No
+TEL-1786,Male,1,Two year,Mailed check,56.95,4500.0,Yes,No,0,No
+TEL-1787,Female,12,Month-to-month,Credit card,56.95,,No internet,No,1,Yes
+TEL-1788,Female,1,Month-to-month,Bank transfer,29.85,500.0,No internet,No,0,No
+TEL-1789,Male,1,Month-to-month,Mailed check, ,500.0,Yes,Fiber optic,0,No
+TEL-1790,Female,12,One year,Electronic check,29.85,100.5,Yes,No,0,Yes
+TEL-1791,Female,1,Month-to-month,Electronic check,29.85,,No,DSL,0,No
+TEL-1792,Male,24,Month-to-month,Bank transfer,56.95,100.5,No internet,DSL,0,No
+TEL-1793,Female,36,Month-to-month,Electronic check,89.9,100.5,No internet,DSL,0,No
+TEL-1794,Male,48,Month-to-month,Credit card,29.85,100.5,No,Fiber optic,0,No
+TEL-1795,Male,6,Month-to-month,Credit card,89.9,500.0,No,DSL,0,No
+TEL-1796,Male,1,Month-to-month,Bank transfer,56.95,100.5,Yes,No,1,No
+TEL-1797,Male,1,Month-to-month,Electronic check,29.85,1200.0,No internet,DSL,0,No
+TEL-1798,Male,24,Month-to-month,Electronic check,29.85,100.5,No internet,DSL,0,No
+TEL-1799,Male,36,Month-to-month,Bank transfer,56.95,1200.0,Yes,Fiber optic,0,No
+TEL-1800,Male,1,Two year,Mailed check,29.85,100.5,Yes,DSL,0,Yes
+TEL-1801,Female,60,One year,Electronic check,105.0,100.5,Yes,DSL,0,No
+TEL-1802,Male,1,Month-to-month,Mailed check,105.0,,Yes,DSL,1,No
+TEL-1803,Male,24,Month-to-month,Electronic check, ,100.5,No internet,Fiber optic,0,Yes
+TEL-1804,Female,36,Two year,Electronic check,29.85,4500.0,No,Fiber optic,0,No
+TEL-1805,Female,60,Month-to-month,Electronic check,ErrorVal,500.0,Yes,Fiber optic,0,Yes
+TEL-1806,Female,36,Month-to-month,Electronic check,56.95,100.5,No,Fiber optic,0,No
+TEL-1807,Male,48,One year,Credit card,56.95,,No internet,Fiber optic,1,Yes
+TEL-1808,Female,6,Month-to-month,Mailed check,29.85,100.5,No,DSL,0,No
+TEL-1809,Male,48,Month-to-month,Mailed check,29.85,4500.0,No,DSL,0,No
+TEL-1810,Male,1,Month-to-month,Electronic check,89.9,100.5,Yes,Fiber optic,0,No
+TEL-1811,Male,60,Two year,Electronic check,56.95,4500.0,No internet,DSL,0,No
+TEL-1812,Male,24,Month-to-month,Mailed check,29.85,100.5,No internet,DSL,0,Yes
+TEL-1813,Female,48,One year,Credit card,89.9,500.0,Yes,Fiber optic,0,No
+TEL-1814,Female,12,Two year,Bank transfer,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1815,Male,24,Month-to-month,Bank transfer,56.95,,Yes,DSL,0,No
+TEL-1816,Male,24,Month-to-month,Mailed check,56.95,,Yes,DSL,0,No
+TEL-1817,Male,36,Month-to-month,Electronic check,105.0,4500.0,No,No,1,No
+TEL-1818,Female,1,Month-to-month,Electronic check,105.0,4500.0,No internet,No,1,No
+TEL-1819,Male,1,Month-to-month,Credit card,56.95,100.5,No,Fiber optic,0,No
+TEL-1820,Male,6,Two year,Bank transfer,56.95,100.5,No internet,Fiber optic,0,No
+TEL-1821,Female,1,One year,Credit card,56.95,100.5,No,Fiber optic,0,Yes
+TEL-1822,Female,60,One year,Bank transfer,105.0,500.0,No,No,0,No
+TEL-1823,Male,6,Month-to-month,Mailed check,56.95,500.0,No,No,0,No
+TEL-1824,Female,-1,Two year,Bank transfer,29.85,500.0,Yes,DSL,0,Yes
+TEL-1825,Female,6,Two year,Credit card,29.85,100.5,No,No,1,No
+TEL-1826,Male,1,Two year,Credit card,56.95,1200.0,No,DSL,1,No
+TEL-1827,Female,48,Month-to-month,Credit card,56.95,100.5,Yes,DSL,0,No
+TEL-1828,Male,36,One year,Mailed check,105.0,500.0,No,Fiber optic,0,No
+TEL-1829,Female,12,Month-to-month,Bank transfer,29.85,500.0,No,Fiber optic,0,No
+TEL-1830,Male,24,Month-to-month,Bank transfer,56.95,1200.0,No internet,No,0,No
+TEL-1831,Male,36,Month-to-month,Credit card,105.0,1200.0,No,DSL,0,No
+TEL-1832,Male,6,One year,Bank transfer,105.0,1200.0,No internet,Fiber optic,0,No
+TEL-1833,Female,-1,One year,Electronic check,56.95,100.5,No,No,1,No
+TEL-1834,Male,-5,Month-to-month,Electronic check,56.95,500.0,No,No,0,Yes
+TEL-1835,Female,36,Month-to-month,Electronic check,56.95,100.5,No,DSL,0,No
+TEL-1836,Male,1,Month-to-month,Bank transfer,105.0,500.0,No internet,DSL,0,No
+TEL-1837,Male,36,Month-to-month,Mailed check,29.85,500.0,No,Fiber optic,0,No
+TEL-1838,Female,1,Month-to-month,Mailed check,105.0,100.5,No,DSL,0,Yes
+TEL-1839,Male,1,Month-to-month,Mailed check,89.9,100.5,No,No,1,No
+TEL-1840,Male,6,One year,Mailed check,56.95,,No,No,0,No
+TEL-1841,Female,12,Month-to-month,Electronic check,29.85,,Yes,DSL,0,Yes
+TEL-1842,Male,60,Month-to-month,Electronic check,56.95,500.0,Yes,DSL,0,No
+TEL-1843,Male,36,Month-to-month,Credit card,56.95,100.5,Yes,DSL,0,Yes
+TEL-1844,Male,36,Two year,Bank transfer,29.85,100.5,No internet,No,1,No
+TEL-1845,Male,12,One year,Bank transfer,89.9,500.0,Yes,DSL,0,Yes
+TEL-1846,Female,6,One year,Mailed check,ErrorVal,,Yes,Fiber optic,1,Yes
+TEL-1847,Female,12,Month-to-month,Electronic check,56.95,100.5,No,Fiber optic,0,No
+TEL-1848,Male,-1,One year,Mailed check,89.9,1200.0,No,Fiber optic,0,No
+TEL-1849,Female,1,Month-to-month,Credit card,29.85,100.5,No,DSL,0,No
+TEL-1850,Male,60,One year,Bank transfer,56.95,,Yes,DSL,0,Yes
+TEL-1851,Female,24,Two year,Bank transfer,29.85,500.0,No internet,No,0,No
+TEL-1852,Male,12,One year,Mailed check,89.9,1200.0,No internet,No,0,No
+TEL-1853,Male,36,Two year,Credit card,105.0,500.0,No internet,Fiber optic,0,No
+TEL-1854,Male,12,One year,Bank transfer,89.9,1200.0,No,DSL,0,No
+TEL-1855,Male,60,Month-to-month,Credit card,29.85,100.5,No,DSL,0,No
+TEL-1856,Male,60,Two year,Credit card,56.95,100.5,Yes,Fiber optic,0,No
+TEL-1857,Male,12,Month-to-month,Mailed check,56.95,,Yes,DSL,0,No
+TEL-1858,Female,6,Month-to-month,Electronic check,56.95,,Yes,No,0,No
+TEL-1859,Male,24,Month-to-month,Mailed check,105.0,4500.0,No,Fiber optic,0,No
+TEL-1860,Female,60,Month-to-month,Electronic check,105.0,1200.0,No,DSL,0,No
+TEL-1861,Male,6,Month-to-month,Credit card,89.9,4500.0,No,No,0,Yes
+TEL-1862,Female,24,Month-to-month,Electronic check,56.95,100.5,Yes,No,0,Yes
+TEL-1863,Female,24,Month-to-month,Credit card,29.85,500.0,No,DSL,0,No
+TEL-1864,Female,36,One year,Bank transfer,29.85,500.0,No,Fiber optic,0,No
+TEL-1865,Male,1,Month-to-month,Bank transfer,56.95,1200.0,No,DSL,1,No
+TEL-1866,Male,36,Month-to-month,Bank transfer,56.95,500.0,No,DSL,0,No
+TEL-1867,Female,60,One year,Mailed check,89.9,100.5,Yes,DSL,0,No
+TEL-1868,Male,1,Month-to-month,Mailed check,89.9,500.0,No internet,Fiber optic,0,No
+TEL-1869,Female,6,One year,Credit card,29.85,4500.0,No,No,0,No
+TEL-1870,Male,-5,One year,Bank transfer,56.95,500.0,Yes,Fiber optic,1,Yes
+TEL-1871,Female,1,Two year,Mailed check,29.85,100.5,Yes,DSL,0,No
+TEL-1872,Female,60,One year,Bank transfer,29.85,100.5,No,Fiber optic,1,No
+TEL-1873,Male,12,Month-to-month,Mailed check,105.0,100.5,No internet,DSL,1,No
+TEL-1874,Female,6,One year,Electronic check,29.85,100.5,No,No,0,Yes
+TEL-1875,Male,60,Month-to-month,Electronic check,56.95,1200.0,Yes,Fiber optic,0,No
+TEL-1876,Female,12,Month-to-month,Bank transfer,29.85,1200.0,No internet,DSL,0,No
+TEL-1877,Female,24,One year,Credit card,105.0,1200.0,No,DSL,0,No
+TEL-1878,Male,12,Month-to-month,Mailed check,56.95,500.0,No,Fiber optic,0,No
+TEL-1879,Male,24,One year,Mailed check,29.85,4500.0,No,DSL,0,No
+TEL-1880,Male,1,Two year,Electronic check,56.95,100.5,Yes,Fiber optic,0,No
+TEL-1881,Female,12,Two year,Electronic check,89.9,500.0,No,DSL,0,No
+TEL-1882,Male,-5,Two year,Credit card,ErrorVal,4500.0,No,DSL,0,No
+TEL-1883,Female,6,Month-to-month,Credit card,29.85,100.5,No internet,Fiber optic,1,No
+TEL-1884,Female,36,Month-to-month,Credit card,105.0,100.5,No,No,0,Yes
+TEL-1885,Male,6,One year,Bank transfer,105.0,4500.0,No,No,1,No
+TEL-1886,Male,48,Month-to-month,Electronic check,105.0,500.0,No,DSL,0,No
+TEL-1887,Female,1,One year,Bank transfer,89.9,1200.0,No internet,DSL,0,No
+TEL-1888,Female,-5,One year,Electronic check,89.9,100.5,No internet,DSL,0,No
+TEL-1889,Male,12,One year,Electronic check,56.95,1200.0,No,Fiber optic,0,No
+TEL-1890,Male,6,Month-to-month,Mailed check,89.9,500.0,No,Fiber optic,0,No
+TEL-1891,Male,1,Month-to-month,Electronic check,56.95,100.5,No,No,0,Yes
+TEL-1892,Male,1,Month-to-month,Electronic check,89.9,1200.0,No,No,1,Yes
+TEL-1893,Male,24,Month-to-month,Bank transfer,56.95,100.5,Yes,DSL,0,No
+TEL-1894,Female,6,Two year,Electronic check,89.9,500.0,No,Fiber optic,0,No
+TEL-1895,Female,48,Month-to-month,Bank transfer,105.0,100.5,Yes,No,1,No
+TEL-1896,Female,12,Month-to-month,Credit card,29.85,100.5,No internet,No,0,No
+TEL-1897,Female,6,Month-to-month,Electronic check,105.0,100.5,No,DSL,0,No
+TEL-1898,Male,24,One year,Electronic check,56.95,100.5,No internet,DSL,0,No
+TEL-1899,Male,36,One year,Bank transfer,105.0,,No,Fiber optic,1,Yes
+TEL-1900,Male,1,Month-to-month,Credit card,56.95,100.5,No,DSL,0,No
+TEL-1901,Female,1,Month-to-month,Mailed check,56.95,500.0,No,DSL,0,Yes
+TEL-1902,Female,1,Month-to-month,Credit card,105.0,100.5,Yes,DSL,0,Yes
+TEL-1903,Male,36,Month-to-month,Bank transfer,29.85,500.0,No,Fiber optic,1,Yes
+TEL-1904,Male,36,One year,Credit card,105.0,,Yes,DSL,0,No
+TEL-1905,Female,12,One year,Bank transfer,56.95,100.5,No,DSL,1,No
+TEL-1906,Female,48,Month-to-month,Bank transfer,56.95,,No,DSL,0,No
+TEL-1907,Male,48,Month-to-month,Mailed check,56.95,100.5,No,No,0,No
+TEL-1908,Male,24,Two year,Electronic check,56.95,1200.0,Yes,No,0,No
+TEL-1909,Female,60,Month-to-month,Bank transfer,56.95,500.0,Yes,Fiber optic,0,Yes
+TEL-1910,Male,6,One year,Bank transfer,29.85,4500.0,No,Fiber optic,1,Yes
+TEL-1911,Male,1,Month-to-month,Mailed check,29.85,500.0,No internet,No,0,Yes
+TEL-1912,Male,6,Month-to-month,Bank transfer,29.85,500.0,No,DSL,0,Yes
+TEL-1913,Female,1,Month-to-month,Electronic check, ,100.5,No,DSL,0,No
+TEL-1914,Female,24,Month-to-month,Mailed check,ErrorVal,100.5,No,DSL,0,No
+TEL-1915,Female,60,Two year,Electronic check,56.95,,Yes,DSL,0,No
+TEL-1916,Female,1,Month-to-month,Electronic check,89.9,500.0,No internet,DSL,0,No
+TEL-1917,Female,1,Month-to-month,Mailed check,56.95,500.0,No,No,0,Yes
+TEL-1918,Female,12,Month-to-month,Bank transfer,89.9,1200.0,Yes,Fiber optic,0,No
+TEL-1919,Female,60,Month-to-month,Electronic check,105.0,500.0,No,Fiber optic,0,No
+TEL-1920,Male,6,Month-to-month,Electronic check,105.0,,Yes,No,0,No
+TEL-1921,Male,24,Month-to-month,Electronic check,56.95,1200.0,No internet,DSL,0,No
+TEL-1922,Male,1,One year,Electronic check,89.9,500.0,Yes,DSL,0,No
+TEL-1923,Male,1,Month-to-month,Mailed check,29.85,4500.0,No,Fiber optic,0,Yes
+TEL-1924,Male,-1,Month-to-month,Mailed check, ,100.5,Yes,Fiber optic,1,No
+TEL-1925,Male,-5,Two year,Credit card,29.85,100.5,No,DSL,0,No
+TEL-1926,Male,1,Month-to-month,Credit card,89.9,500.0,No,Fiber optic,1,No
+TEL-1927,Female,-5,Two year,Electronic check,89.9,100.5,No,Fiber optic,1,No
+TEL-1928,Female,24,Month-to-month,Bank transfer,89.9,1200.0,No,Fiber optic,0,No
+TEL-1929,Male,60,Two year,Electronic check,29.85,,No internet,Fiber optic,0,Yes
+TEL-1930,Male,12,One year,Bank transfer,105.0,500.0,Yes,DSL,1,No
+TEL-1931,Female,24,Two year,Electronic check,29.85,500.0,No,DSL,0,No
+TEL-1932,Male,12,Two year,Credit card,89.9,,Yes,Fiber optic,0,No
+TEL-1933,Male,36,Month-to-month,Credit card,29.85,500.0,No internet,DSL,0,No
+TEL-1934,Female,1,Two year,Bank transfer,56.95,500.0,No,No,0,No
+TEL-1935,Male,1,Month-to-month,Electronic check,56.95,500.0,No,Fiber optic,0,No
+TEL-1936,Female,6,Month-to-month,Bank transfer,56.95,,No,DSL,0,No
+TEL-1937,Male,36,Month-to-month,Credit card,29.85,500.0,Yes,Fiber optic,0,Yes
+TEL-1938,Female,6,Month-to-month,Electronic check,29.85,1200.0,Yes,Fiber optic,0,No
+TEL-1939,Female,36,Month-to-month,Electronic check,56.95,4500.0,Yes,DSL,0,No
+TEL-1940,Female,-5,One year,Bank transfer,89.9,500.0,No,No,0,No
+TEL-1941,Male,1,Month-to-month,Mailed check,105.0,500.0,Yes,No,0,No
+TEL-1942,Female,36,One year,Bank transfer,29.85,4500.0,Yes,Fiber optic,1,Yes
+TEL-1943,Male,12,Two year,Credit card,56.95,500.0,No internet,DSL,0,Yes
+TEL-1944,Male,60,Month-to-month,Credit card,29.85,1200.0,No internet,Fiber optic,0,No
+TEL-1945,Male,1,Month-to-month,Credit card,29.85,,No,Fiber optic,0,Yes
+TEL-1946,Male,36,Month-to-month,Credit card,89.9,1200.0,No,DSL,0,Yes
+TEL-1947,Female,48,Month-to-month,Credit card,89.9,1200.0,Yes,DSL,0,Yes
+TEL-1948,Female,60,Month-to-month,Mailed check,29.85,4500.0,No,No,1,No
+TEL-1949,Male,36,Month-to-month,Electronic check,29.85,4500.0,No internet,DSL,0,No
+TEL-1950,Male,12,Month-to-month,Bank transfer,29.85,500.0,Yes,Fiber optic,1,No
+TEL-1951,Female,24,Two year,Bank transfer,105.0,100.5,Yes,Fiber optic,0,Yes
+TEL-1952,Male,60,One year,Credit card,ErrorVal,500.0,No,Fiber optic,0,No
+TEL-1953,Female,24,Month-to-month,Bank transfer,29.85,1200.0,No,DSL,0,No
+TEL-1954,Male,1,One year,Credit card,29.85,500.0,Yes,No,1,No
+TEL-1955,Male,60,Month-to-month,Mailed check,105.0,1200.0,No,DSL,0,No
+TEL-1956,Female,36,Month-to-month,Mailed check,105.0,500.0,No,Fiber optic,0,No
+TEL-1957,Male,36,One year,Electronic check,56.95,1200.0,No,Fiber optic,1,Yes
+TEL-1958,Female,6,Month-to-month,Mailed check,29.85,100.5,No,Fiber optic,0,No
+TEL-1959,Male,36,Month-to-month,Mailed check,29.85,1200.0,No internet,No,0,Yes
+TEL-1960,Male,12,Two year,Electronic check,56.95,500.0,No,Fiber optic,1,No
+TEL-1961,Male,36,Two year,Bank transfer,56.95,100.5,No internet,DSL,0,No
+TEL-1962,Female,1,One year,Credit card,29.85,100.5,No,No,0,No
+TEL-1963,Male,36,One year,Credit card,56.95,1200.0,No,Fiber optic,0,No
+TEL-1964,Male,-1,One year,Bank transfer,29.85,500.0,No,DSL,0,No
+TEL-1965,Male,1,Month-to-month,Electronic check,89.9,100.5,No internet,DSL,0,No
+TEL-1966,Male,-1,Month-to-month,Bank transfer,56.95,,No internet,No,0,No
+TEL-1967,Female,12,Month-to-month,Mailed check,29.85,1200.0,Yes,DSL,0,Yes
+TEL-1968,Female,60,Month-to-month,Electronic check,56.95,,No internet,Fiber optic,0,No
+TEL-1969,Male,48,Month-to-month,Electronic check,56.95,500.0,No internet,Fiber optic,1,No
+TEL-1970,Female,24,Month-to-month,Electronic check,ErrorVal,500.0,No,DSL,1,No
+TEL-1971,Male,36,Two year,Credit card,56.95,4500.0,Yes,Fiber optic,0,No
+TEL-1972,Male,60,Two year,Bank transfer,29.85,500.0,No internet,DSL,0,No
+TEL-1973,Male,12,One year,Electronic check,89.9,1200.0,No internet,Fiber optic,1,No
+TEL-1974,Female,6,Month-to-month,Electronic check,29.85,100.5,Yes,Fiber optic,0,No
+TEL-1975,Female,36,Two year,Electronic check,105.0,500.0,No internet,Fiber optic,0,No
+TEL-1976,Female,48,Month-to-month,Bank transfer,56.95,100.5,Yes,Fiber optic,1,No
+TEL-1977,Female,48,One year,Credit card,56.95,100.5,Yes,No,0,No
+TEL-1978,Female,48,Month-to-month,Mailed check,29.85,100.5,No,Fiber optic,0,No
+TEL-1979,Female,12,One year,Credit card,56.95,100.5,No,DSL,0,No
+TEL-1980,Female,48,Month-to-month,Electronic check,105.0,,No,DSL,0,Yes
+TEL-1981,Female,1,Two year,Credit card,105.0,100.5,Yes,Fiber optic,0,No
+TEL-1982,Female,24,Two year,Credit card,29.85,1200.0,No internet,No,0,No
+TEL-1983,Male,1,Month-to-month,Mailed check,29.85,4500.0,Yes,No,0,No
+TEL-1984,Female,6,Month-to-month,Bank transfer,105.0,500.0,Yes,No,0,No
+TEL-1985,Female,12,Two year,Bank transfer,105.0,100.5,Yes,DSL,0,No
+TEL-1986,Female,12,Month-to-month,Credit card,29.85,1200.0,No,Fiber optic,0,No
+TEL-1987,Female,36,Two year,Credit card,56.95,1200.0,No internet,Fiber optic,0,Yes
+TEL-1988,Female,12,One year,Bank transfer,56.95,1200.0,No,DSL,0,Yes
+TEL-1989,Female,12,Month-to-month,Bank transfer,105.0,1200.0,No internet,DSL,1,No
+TEL-1990,Female,6,Month-to-month,Mailed check,29.85,,Yes,No,0,No
+TEL-1991,Female,12,Month-to-month,Electronic check,29.85,500.0,No,DSL,0,No
+TEL-1992,Female,6,One year,Credit card,89.9,500.0,No,DSL,0,No
+TEL-1993,Female,1,Month-to-month,Bank transfer,29.85,1200.0,No,DSL,0,No
+TEL-1994,Female,24,Month-to-month,Credit card,56.95,100.5,Yes,No,0,No
+TEL-1995,Male,36,Month-to-month,Credit card,56.95,4500.0,No,Fiber optic,0,No
+TEL-1996,Male,24,One year,Bank transfer,56.95,100.5,No,Fiber optic,0,No
+TEL-1997,Female,12,Two year,Mailed check,56.95,500.0,No,No,0,Yes
+TEL-1998,Female,12,Two year,Credit card,56.95,4500.0,No,DSL,1,No
+TEL-1999,Male,60,Month-to-month,Mailed check,29.85,500.0,Yes,Fiber optic,0,Yes
+TEL-1000,Male,36,Month-to-month,Bank transfer,89.9,500.0,No,Fiber optic,0,No
+TEL-1001,Female,24,Month-to-month,Bank transfer,89.9,4500.0,No,DSL,0,No
+TEL-1002,Male,6,Month-to-month,Bank transfer,29.85,1200.0,No internet,No,1,No
+TEL-1003,Male,48,Month-to-month,Bank transfer,89.9,100.5,No,Fiber optic,0,Yes
+TEL-1004,Male,36,Month-to-month,Credit card,56.95,100.5,No internet,DSL,0,No
+TEL-1005,Female,1,Month-to-month,Bank transfer,105.0,100.5,Yes,No,0,No
+TEL-1006,Male,60,One year,Electronic check,105.0,500.0,No,Fiber optic,0,Yes
+TEL-1007,Male,48,Month-to-month,Bank transfer,29.85,500.0,No internet,DSL,0,No
+TEL-1008,Male,60,One year,Credit card,89.9,1200.0,Yes,Fiber optic,0,No
+TEL-1009,Female,36,One year,Bank transfer,29.85,100.5,No,DSL,0,No
+TEL-1010,Male,24,Two year,Electronic check,56.95,100.5,Yes,No,0,Yes
+TEL-1011,Male,12,One year,Credit card,29.85,500.0,No,No,1,No
+TEL-1012,Male,60,Two year,Credit card,56.95,1200.0,No,No,0,No
+TEL-1013,Male,60,Month-to-month,Electronic check,56.95,100.5,No,Fiber optic,0,No
+TEL-1014,Female,1,Month-to-month,Electronic check,89.9,1200.0,Yes,Fiber optic,0,No
